@@ -1,0 +1,1593 @@
+{
+  "settings": {
+    "name": "Personality Development",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#fff6f6"
+      ]
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "4.2.2",
+    "uniqCompNum": 45,
+    "versionPublish": "4.2.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><a href=\"page1.html\">How To Archive Goal</a><br><a href=\"page2.html\">charismatis</a><br><a href=\"page3.html\">smarter</a><br><a href=\"page4.html\">clam </a><a href=\"page4.html\">down</a><br><a href=\"page5.html\">learn love your self</a><br><a href=\"page6.html\">overcome </a><a href=\"page6.html\">fear</a><br><a href=\"page7.html\">bring </a><a href=\"page7.html\">people </a><a href=\"page7.html\">around </a><a href=\"page7.html\">you</a><br><a href=\"page8.html\">develop your personality</a><br><a href=\"page9.html\">make people ike u</a><br><a href=\"page10.html\">make people thisk on your way</a><br><a href=\"page11.html\">overcome warry be happy strong</a><br><a href=\"page12.html\">major requirment develop personality</a><br><a href=\"page13.html\">self improvement idea</a>s<br><a href=\"page14.html\">some common tips for peronality develop</a><br><a href=\"page15.html\">tips for being yourself</a><br><a href=\"page17.html\">way to calm down nevrs</a><br><a href=\"page18.html\">way to increase concentration</a><br><a href=\"page19.html\">way to overcome public speking</a><br><a href=\"page16.html\">way to not argue</a><a href=\"page19.html\"><br></a><br><a href=\"page10.html\"><br></a><br><br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-7",
+          "_cid": "qwZpbmwH7z",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "How To Archive Goals",
+        "order": 19
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/898989-600x318.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_cid": "qwZldz40Qg",
+          "_anchor": "image2-1",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;1 - Set Goals\n<b><br></b><br><div></div><div>First list down all the goals that you want to accomplish. If you are not sure what you want in life, you are just bound to receive the unexpected. Nevertheless, bear in mind that goals should always be sensible and should be accomplishable. Setting unrealistic goals are of no use. </div><br><div>Write the most important goals at the top of the list and number them accordingly. This will help you to focus more precisely. You can strike off each goal once it is accomplished. Writing down your goals will also help you to realize your priorities.</div><br><div>\n</div><div>\n</div><div>2 - Develop Strategies<b> </b>To Achieve Goals</div><div><br></div><div>Once you have listed your goals, you need to evaluate and develop strategies to complete your goals. For example, if your goal is to shed some extra pounds, your broad strategy should be dieting and exercises. Nothing can be achieved straightforwardly in life. So, you need a particular strategy and dedication to pull off your goals.</div><br><div>\n</div><div>\n</div><div>3 - Have Definite Action Plans</div><div><br></div><div>Once your broad line of attack is determined, work on your definite action plans. For instance, if dieting and exercising are your broad strategies to your weight loss goal, then your action plan should consist of a healthy diet chart; a healthy way of life, and an appropriate workout routine.</div><br><div>\n</div><div>\n</div><div>4 - Believe In Yourself</div><div><br></div><div>If you want to accomplish your goals and become successful in life, you have to believe in yourself. All successful men and women today are doing well because they believed in themselves and were confident about their capabilities. If you believe in yourself, then you can accomplish the goals you have set for yourself.</div><br><div>\n</div><div>\n</div><div>5 - Review Your Progress</div><div><br></div><div>Make sure you are making progress. Review your progress every week to analyze how far you have reached in accomplishing your goals. If you find you are lagging behind, hire a coach, look for help from family and friends, and above all, try to recognize why your goal is not being met. Find a solution to accomplish your goal.</div><br><div>\n</div><div>\n</div><div>6 - Be Self Motivated\n -</div><div><br></div><div>Self motivation is a must to achieve goals and success in life. Motivational books and CDs are great ways to keep you motivated and will help you to stay focused towards your goals. The more self motivated you are, the easier it is to work towards your objectives.\n</div><div>\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "qwZlgSUH4L",
+          "_anchor": "content9-3",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "How To Be Charismatic",
+        "order": 18
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/charismatic-leadership-1200x630.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-8",
+          "_cid": "qx3GB51Xy3",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Relax Your Way To The Top \n<br><br><div>If you are looking to be charismatic, then the first and foremost thing that you have to do is to actually learn to relax. Some people try too hard to be charismatic, but only end up making a fool of themselves. This is not something that you would want to do. </div><br><div>So, in order to work on your charisma, learn from the mistakes of others and relax. When you master the art of relaxing in a social setting, you automatically exude charisma. It's a known fact that people love to be around people who are calm and composed. </div><br><div>Learn to channelize peace and tranquility to everyone you know and meet. This will help you seem extremely calm and a lot more attractive. With a personality of this sort, apart from wanting to be with you, people may even aspire to be like you.</div><br><div> \n</div><div>\n</div><div>2 - Confidence Concerns </div><br><div>\n</div><div>While being confident can be easily mistaken for being charismatic, there is a very distinct difference between being confident and being charismatic. </div><br><div>Charisma is that quality that makes you seem like you have an extremely attractive personality, and confidence is that quality that adds to your charisma. </div><br><div>Appearing confident can make you seem extremely charismatic, because your confidence apart from acting like a magnet will also help put the others around you at ease and create in them a desire to be around you. </div><br><div>Here, however, you will have to take a lot of care to stay away from going overboard, because while confidence is one thing, overconfidence is a different thing altogether and it's that one quality that no one can really be fond of.</div><br><div> \n</div><div>\n</div><div>3 - Dish Out Attention</div><div><br></div><div>In order to seem charismatic, it is important to listen and pay attention. When you manage to do this your charisma quotient automatically reaches new heights. </div><br><div>You can pull off attention tactics by simply listening to what people have to tell you and talk as less as possible. </div><br><div>However, when you actually do talk, make sure you talk sense and make sure the words that are coming out of your mouth are the kind of words that the other person would want to listen to. </div><br><div>Make it a point to smile while you are talking. This will help add quite a lot of appeal to your personality.</div><br><div> \n</div><div>\n</div><div>4 - Be Considerate \n</div><div><br></div><div>You are truly a considerate person when you treat others around you just the way you would want to be treated. </div><br><div>You wouldn't want to be discriminated against under any grounds, so then there is no reason why you should treat one person differently from the other. Exercise this behavior pattern in your day-to-day life and watch how people are attracted to you like bees are to honey.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-a",
+          "_cid": "qx3HvInmSz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "How To Become Smarter",
+        "order": 17
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/gettyimages-492378344-2a5d8b2206e74c67d7b1b94c3576ace7cd32bb65-s900-c85-900x675.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-b",
+          "_cid": "qx3Ika4IEP",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;1 - Exercise Your Brain<br><br> \n<div>\n</div><div>Just like you workout to build and strengthen your muscles, your brain, too, requires proper exercises to sharpen itself. Often, it is assumed to be a useless body part, but this is not true. </div><br><div>As such, whenever you are engaging yourself in some activities, you are exercising your brain. Consider practicing activities, such as puzzles, crafts, reading, painting, gardening, and other recreational activities that will refresh and rejuvenate you and your mind, in particular.</div><br><div>2 - Read Quality Books</div><br><div> \n</div><div>\n</div><div>Most of us love reading. But we often end up reading fiction, suspense, or romantic books. However, these books do not mentally stimulate us. </div><br><div>So, if you really want to improve your thinking and writing skills, pick up books that force you to really focus. Read a classic novel that changes your perspective towards this world and exposes you to precise, elegant English.</div><br><div> Do not feel shy to pick up new words and find their meanings. This, in turn, will make you smarter with a more comprehensive vocabulary. Make reading fun as well as useful.</div><br><div> \n</div><div>\n</div><div>3 - Avoid The Idiot Box</div><br><div> \n</div><div>\n</div><div>What do we do after a long tiring working day? Pick up a bag of chips and a can of cola only to land up in front of the television.</div><br><div> Though there is no problem with refreshing yourself while watching a reality or a talk show, it doesn't really put your mental capacity into use. Further, watching television continuously does not relax you, instead, it exhausts you. Hence, pick up a book or magazine when you want to relax. Or, switch off the idiot box when you have friends or acquaintances around and indulge in a conversation instead.</div><br><div> \n</div><div>\n</div><div>4 - Learn A Foreign Language</div><br><div> \n</div><div>\n</div><div>Researches indicate that learning an unknown foreign language boosts brain power. Quite smart, indeed, right! Learning and understanding the foreign culture through the language induces your brain to implement its muscles.</div><br><div> \n</div><div>\n</div><div>&nbsp;5 - Identify Your Qualities</div><br><div> \n</div><div>\n</div><div>All of us have had our share of several idols and dream jobs during childhood. </div><br><div>A scientist, a social worker, an airhostess, a 40-wheel lorry driver, an astronaut, or even a rock star! But, in reality, how many of us are really able to convert our childhood dreams into a reality? Probably, just one out of hundred. </div><br><div>That's because to move onto their paths, we need to understand the values, commitment, and endless efforts to meet the requirements and achieve our goals. However, this should not be mixed with our idols. </div><br><div>For example, if we try to imitate our idols, we will only land up making a fool out of ourselves and not creating a niche amongst the rest. Hence, it is important to identify your qualities and be yourself rather than being others.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-c",
+          "_cid": "qx3Ikr6usW",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "How To Calm Down",
+        "order": 16
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/pexels-photo-2048x1365.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-e",
+          "_cid": "qx3IYq681e",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Breathe Deeply<br><br> \n<div>\n</div><div>Though it is an old and repeated technique, nevertheless it really works well. Comfort yourself in a relaxing position and take a deep breath. Hold your breath and start releasing slowly.</div><br><div> As your breath leaves you, assume as though you are breathing out fire. To feel the fire exiting from within you, place your hand underneath your nose.</div><br><div> \n</div><div>\n</div><div>2 - Exercise</div><br><div> \n</div><div>\n</div><div>Exercising is, indeed, the best technique for calming down. Move out and indulge yourself into vigorous aerobic exercises for a longer duration than normal to release the pain and anger within you. </div><br><div>Also, you can take up running as all it matters is finishing the run rather than worrying about the reasons for your stress. Push yourself against the barbell or the fitness equipment. This would help your mind to focus on nothing else, but finishing the exercise.</div><br><div> \n</div><div>\n</div><div>3 - Close Your Eyes</div><br><div> \n</div><div>\n</div><div>Gently close your eyes and retreat from the present world going deeper and deeper. Let those drops moisten your eyelids helping you regain your equilibrium. You will gradually get back your balance and proper focus.</div><br><div> \n</div><div>\n</div><div>4 - Move Outdoors</div><br><div> \n</div><div>\n</div><div>Whenever you are in an agitated mood, give yourself an hour to indulge into the beauty of the nature. Whether you are angry, opinionated, cynical or uptight, you will soon return home as a relaxed person. Engage yourself into some activities, say walking, biking, running or swimming, in order to clam yourself down.</div><br><div> \n</div><div>\n</div><div>5 - Find Your Way To Water</div><br><div> \n</div><div>\n</div><div>All you guys, who had assumed water to be only a thirst quencher, think again! The various healing and mood effects of water can do wonders to calm you quickly. </div><br><div>So, the next time whenever you are over aroused, drink a big glass of water every hour. Besides, you can take a walk along the water, take a look at it or listen to it. If possible, throw yourself into it by going for a bath or swim.</div><br><div> \n</div><div>\n</div><div>6 - Step Back</div><br><div> \n</div><div>\n</div><div>Take a step back and observe the world that you are living in. Lift your head up and look at the stars in the sky. Realize the number of stars filled with many planets just like one of ours. Compare your problem with one of those twinkling stars? Probably, it is just a fight between two ants. </div><br><div>In the event of so many serious problems, yours would not seem as a big deal. All it requires is some framing of things and events here and there. And voila! You'll have the solution to your problem in a few moments.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-f",
+          "_cid": "qx3IYL5dw7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "How To Learn To Love Your Self",
+        "order": 15
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/self-love23-800x500.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-g",
+          "_cid": "qx3JbM3pjq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Accept Your Personality<br><br> \n<div>\n</div><div>Your life has not ended yet. You still have plenty of years to live. Hence, it's never too late to improve or develop yourself throughout your life. </div><br><div>However, it is best if you accept yourself for whom you are. Be happy and celebrate your unique qualities and characteristics. After all, you are a unique individual created from God's own hands.</div><br><div> \n</div><div>\n</div><div>2 - Be Happy With Your Body &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Size</div><br><div> \n</div><div>\n</div><div>Both men and women are often too conscious about their physical appearance, especially when they see a well-toned and figured person crossing their way. In case of women, some feel that their breasts are just too small, while there are others who feel they have heavy butt. </div><br><div>Men, on the other hand, feel inferior to those who are well built or have a great muscular body. For all such gentlemen and ladies, remember that we are not produced from a single factory. </div><br><div>Each one of us is different; hence, it is better if you accept, or rather love, your physical appearance.</div><br><div> \n</div><div>\n</div><div>3 - Build Confidence</div><br><div> \n</div><div>\n</div><div>No person is born with natural confidence. It is the upbringing and your surroundings that help you develop poise and self-confidence. </div><br><div>Children who are taught to become self independent from an early age have greater level of confidence than those who look up to their parents for every knick and knack. Start revealing a positive attitude and a feeling of self assurance and see how confidence comes natural to you in no time.</div><br><div> \n</div><div>\n</div><div>4 - Find Out Your Good Qualities &nbsp; &nbsp; &nbsp; &nbsp;And Achievements</div><br><div> \n</div><div>\n</div><div>Looking out for some good qualities in yourself? Were you not able to find any? Does that make you hate yourself further? Why? Aren't you a homosapien? </div><br><div>Just like every person has some negative attributes, so does he have positive characteristics as well. </div><br><div>It is good to criticize your self but then do not be over critical. Accept your flaws and try to come over them. As for your positives, just keep on bettering them and who knows you might be able to love yourself all the more.</div><br><div> \n</div><div>\n</div><div>5 - Stop Regretting On Your &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mistakes</div><br><div> \n</div><div>\n</div><div>So, you have committed a mistake? So what? It's just a mistake. No one is going to beat or punish you to death. </div><br><div>Making mistakes is natural to any human being. So stop beating or cursing yourself over and over again. Instead, sit down and analyze your mistakes. </div><br><div>Take positive lessons from them and find out what different you can do next time to avoid these stupid and silly errors. Forget the past and plan the future.</div><br><div> \n</div><div>\n</div><div>6 - Don't Let Others Dominate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You</div><br><div> \n</div><div>\n</div><div>Sad but true, often people treat you like a doormat simply because you allow them to do so. </div><br><div>It's your life and no one has the right to control or rule it, except you. So stop being too kind and generous when a friend constantly borrows money from you with no promises of repaying it back. </div><br><div>Stand up and dump that guy who calls and looks up to you only for sex and nothing else. Remember, do not let anyone treat you badly because you deserve better than being only used or criticized. \n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-h",
+          "_cid": "qx3JbWUMGg",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "How To Overcome Fear",
+        "order": 14
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/fear1-950x542.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-i",
+          "_cid": "qx3JVsUZVG",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Understand Your Fear<br><br> \n<div>\n</div><div>Try to understand why you fear or what causes you to fear. Only when you have identified the source of your fear can you start on the process of overcoming it. You can start by listing all your fears on your notepad and then striking them off once you have overcome them.</div><br><div> \n</div><div>\n</div><div>2 - Breathe Deep</div><br><div> \n</div><div>\n</div><div>Taking deep breaths when you are scared or worried helps you relax to a great extent. Make sure that you exhale longer than you inhale. Fear will automatically reduce since you will also calm down. This can also help you to think things out effectively. Breathing exercises can be practiced during meditation.</div><br><div> \n</div><div>\n</div><div>3 - Chalk Out A Plan &amp; Be &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Positive</div><br><div> \n</div><div>\n</div><div>Always have a plan for situations which may not bring you certain results. For instance, you may be afraid to attend an interview in fear of being rejected. You may also fear a date for similar reasons or may feel scared about losing your job as you do not know how life will be after that. </div><br><div>But in all these situations, you can chalk out a plan beforehand, a plan which will bring you favorable results and thus kill all fears. Though plans do not work always, a positive attitude always does, therefore think positive in every walk of life.</div><br><div>\n</div><div>\n</div><div>4 - Confront Your Fears</div><br><div> \n</div><div>\n</div><div>Many people are scared of something specific, like being in the dark or driving or swimming. If you too fall in the same category, make it a point to learn the thing that you fear doing.</div><br><div> Even if you fail once or twice, don't give up on your hope and practice hard to overcome your fear. Switch off the lights when you are alone in a room and see what happens. You can be assured that nothing is going to attack you! Once when you have confronted your fear by actually performing the same thing that you fear, you will successfully kill your fear.</div><br><div> \n</div><div>\n</div><div>5 - Boost Up Confidence</div><br><div> \n</div><div>\n</div><div>Sometimes, fear is the result of extreme low belief in oneself and low confidence. Practice exercises which help to boost self confidence. </div><br><div>For example, you can stand in front of the mirror and pretend to speak to a stranger, so that you do not have to fear mingling with a new group of people the next time you come across one. This exercise can also help you overcome stage fright.</div><br><div> \n</div><div>\n</div><div>6 - Seek Medical Help</div><br><div> \n</div><div>\n</div><div>If nothing seems to be working for you and you still feel intermittently scared, there is no harm in seeking medical help, for who knows, after a couple of sessions, you might actually be able to ward off your fear. </div><br><div>Nowadays, there are psychiatrists who help people to overcome their fear and shortcomings. However, resort to this, only when all the above have failed. \n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-j",
+          "_cid": "qx3JVCWl7M",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "How To Bring Peple Around You",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/fotolia-76283005-s-700x467.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-k",
+          "_cid": "qx3KDj1lCW",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Begin with praise and honest appreciation.Call attention to peoples mistakes indirectly.Talk about your own mistakes before criticizing the other person.<br><br>Ask questions instead of giving direct orders.Praise the slightest improvement and praise every improvement.Let the other man save his face.<br><br>Give the other person a fine reputation to live up to.<br><br>Use encouragement. Make the fault seem easy to correct.<br><br>Make the other person happy about doing the thing you suggest.&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-l",
+          "_cid": "qx3KDvE6od",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "How To Develop Your Personality",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/personality-development-650x433.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-m",
+          "_cid": "qx3KV9XKyj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Each person is unique<br><br><div>Remember that each individual is different and has his or her unique characteristics and qualities. Comparing yourself with others around only increases the distress, especially when you start focusing on where you are lacking compared to others. It is important that you channelize your energy towards your positive traits.</div><br><div> \n</div><div>\n</div><div>2 - Do not get swayed by media &nbsp; &nbsp; &nbsp; &nbsp; portrayals</div><div><br></div><div>Media portrays people in its own idiosyncratic ways. It does not mean what or how you should be.</div><br><div> \n</div><div>\n</div><div>3 - Personality matters, not &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;looks alone</div><br><div> \n</div><div>It is not just looks that are important and that define who you are. Personality defines who you are and how you respond in various situations. It is essential to focus on the personality, which matters the most.</div><br><div>\n</div><div>\n</div><div>4 - Learn social skills</div><br><div> \n</div><div>Just looking good will never be sufficient to take you forward in life or help you in your relationships with people. Instead, hone your social skills. The more success one has in social spheres of life, the better you would feel about yourself.</div><br><div> \n</div><div>\n</div><div>5 - Have a healthy lifestyle</div><br><div> \n</div><div>Life is a balancing act. Learning to balance different aspects of life is integral to a wholesome life. Have a good, balanced diet and exercise.</div><br><div> \n</div><div>\n</div><div>6 - Do not avoid social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;interactions</div><br><div>\n</div><div>Just because you feel you aren't good-looking, do not avoid meeting people. The more you shun social interaction, the worse you would feel about yourself.</div><br><div> \n</div><div>\n</div><div>7 - Know your positives</div><br><div> \n</div><div>If every individual has his or her limitations, then he or she also has positives. These positive are what you need to concentrate on. Know your strengths. Acknowledge them and work with them.</div><br><div> \n</div><div>\n</div><div>8 - Get healthy peer support</div><br><div> \n</div><div>Peers are an important part of your support system. Having peers who are supportive can contribute to our understanding of situations, giving alternative perspectives. \n</div><div>Talk to parents and friends.</div><br><div> \n</div><div>The difficulties you might face in evaluating yourself in a positive light can be taken care of by talking to family and friends.</div><br><div> \n</div><div>\n</div><div>9 - Develop media literacy skills</div><br><div> \n</div><div>Learn to see messages in the media in a dispassionate manner. Try and develop this skill so that you are able to integrate what the media shows in a realistic manner. </div><br><div>Everyone has their notion of how people should look and dress, etc... All these diverse perceptions can lead individuals to believe that they need to be a particular way, and if not, then it implies something negative about them. This can frequently affect one's moods and behaviour.</div><br><div> \n</div><div>\n</div><div>10 - Know Yourself</div><br><div> \n</div><div>The first step on your quest to develop your personality is to know yourself. It is very important to know yourself in order to figure out what needs to be done to modify your existing personality. </div><br><div>Knowing yourself is not about knowing your favorite color, food and etc. It is about knowing your limitations and plus points. You must be aware of your abilities so that you can use them when the time comes. </div><br><div>You need to analyze yourself and find out what is it that you lacking in. Are you short tempered or do you panic easily or is that you can't speak in a group. Find out and then accordingly we can work on your personality.</div><br><div> \n</div><div>\n</div><div>11 - Comparison</div><br><div> \n</div><div>You need to accept one thing that you cannot be best at everything. We all have our strengths and weaknesses. </div><br><div>You are different from others; you have your own set of talents and abilities. </div><br><div>Just because there is someone around who is great at a think you are not good at does not mean he is better than you. There will be things that he cannot do but you can. </div><br><div>No one is perfect in this world. So never compare yourself to others. It does more harm than good. Love yourself and you will definitely achieve a better personality.</div><br><div> \n</div><div>\n</div><div>12 - Courteous</div><br><div>\n</div><div>Personality as I said is not just about how you look. It is how you present yourself. It is how you impress others. </div><br><div>An expressionless and monotonous tone will get you nowhere. You need to have an attitude that is pleasing so that you are welcomed wherever you go. Be courteous and humble. Greet your juniors with a smile and reply back to their greetings. </div><br><div>At times have lunch together or offer your lunch to them. Be available for your people and you will become dependable for them. This is a remarkable trait for your personality. Mannerism weighs a lot in the professional world.</div><br><div> \n</div><div>\n</div><div>13 - Body Language</div><br><div>\n</div><div>Having a personality takes into account everything. Not just the way you dress up and talk but also your body language. </div><br><div>How you walk, sit , eat , how you behave when others are talking etc make a huge impact on others. Your body language is therefore a very important is very aspect of your personality. Have a relaxed posture. </div><br><div>Walk upright do not droop or be extra rigid. When others in a group are talking have a relaxed tone. </div><br><div>Do not get involved with the surroundings but pay attention to the speaker. If he is talking to you have a calm eye contact and not staring or distracted. Have a good body language that shows that you are confident.</div><br><div> \n</div><div>\n</div><div>14 - Physique</div><br><div> \n</div><div>The easiest way to achieve a good personality is to have a good physique. It cannot be denied that a good physique is very important. It is a very important part of your personality. </div><br><div>Your physique not only sets an impression but it speaks a lot about you. A good physique says that you are a well planned person. </div><br><div>You think about yourself and about your health. It also gives a perception that you are away from bad habits and company. It really says a lot about you. So start exercising and stay fit to develop your personality. \n</div><br><div>15 - Attire</div><div><br></div><div>Yes personality is not all about dressing up but the way you dress does have an impact on your personality. So even if not the most important you attire is definitely one of the most important aspect of your personality. </div><br><div>Dress up in a decent manner. Be professional and avoid flashy colors. Avoid unnecessary piercing on your body or tattoos. Wear neatly ironed and unstained clothes. Look professional or according to the environment of your working place. It is very important to develop your personality to have a great sense of dressing.</div><br><div> \n</div><div>\n</div><div>16 - Confidence</div><br><div> \n</div><div>I will definitely say that this is the most important thing to be achieved to obtain a better personality. </div><br><div>You have to be confident with whatever you do. Your confidence says that you know about your work and you are well aware of your abilities. </div><br><div>If you shy of speaking in public then you have to start speaking as having confidence is very important. Believe in yourself and to help you build confidence read success stories of other people. Have motivational slogans and pictures on your board etc to help you boot your confidence.</div><br><div><br></div><div>\n</div><div>17 - Speech</div><br><div>\n</div><div>A very vital part of any personality development program is to help you speak better. By speaking better I do not mean using big words and giving speeches. </div><br><div>The words you use are very important. Have a decent and simple manner of speaking. Use a language that is understood by all. Now a day's English has the top priority. </div><br><div>If you do not have grips over this language enroll yourself with some coaching class. When you speak in a group see to it that your words are not offending or agitating. When to speak is more important than what to speak. So take care of your speech as much as you can.</div><br><div> \n</div><div>\n</div><div>18 - Appreciate</div><div><br></div><div>A great personality knows how to impress and make an impact. In the professional world where you work or stay in a group; to be accepted by others is very important. </div><br><div>All the pain of building a personality is to be accepted so that we can move on and work in a better way. </div><br><div>Develop a habit of appreciating your mates no matter how small the work is. Although take care that you are not being fake. </div><br><div>Appreciating others makes you a very friendly person. You also motivate your mates and that makes you a better employee as well. Thus a simple habit of appreciating helps you develop your personality by making you a little selfless. \n</div><div>\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-n",
+          "_cid": "qx3KVkxKn0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "How To Make People Like You",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/547301-b1566610-773e-11e3-98ae-18260220474f-650x366.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-o",
+          "_cid": "qx3LQG4m68",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Don't criticize, condemn or complain.Give honest, sincere appreciation.<br><br>Arouse in the other person an eager want Become genuinely interested in other people Smile.<br><br>Remember that a man’s name is to him the sweetest and most important sound in any language.<br><br>Be a good listener, encourage others to talk about themselves.Talk in terms of the other mans interest.<br><br>Make the other person feel important and do it sincerely&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-p",
+          "_cid": "qx3LRHgl39",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "How To Make People Think in Your Way",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Show respect for the others persons opinions. <br><br>Never tell a man he is skipped.The only way to get the best of an argument is to avoid it.<br><br>If you are skipped admit it quickly and emphatically.Begin in a friendly way.<br><br>Get the other person saying Yes, yes immediately.<br><br>Let the other person do a great deal of the talking.<br><br>Let the other person feel that the idea is his.<br><br>Try honestly to see things from the other person’s point of view.<br><br>Be sympathetic with the other person’s ideas and desires.<br><br>Appeal to nobler motives.<br><br>Dramatize your ideas.Throw down a challenge&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-r",
+          "_cid": "qx3M8VFVfV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "how to overcome - happy - strong",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/o-happy-facebook-700x350.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-s",
+          "_cid": "qx3Oojeu9Y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Analyze worry<br><br>\n<div>\n</div><div>Get all the facts.Weigh all the fats-then come to a decision.Once a decision is reached, act.Write the answers of the following questions. </div><div>a) What is the problem?\n</div><div>b) What are the causes of the problem?\n</div><div>c) What are the possible solutions?</div><br><div>\n</div><div>\n</div><div>2 - Overcome worry</div><br><div>\n</div><div>\n</div><div>Live in day-tight compartments.Face the trouble the following ways. </div><div>a) Ask yourself what is the worst that can possibly happen?\n</div><div>b) Prepare mentally to accept the worst.\n</div><div>c) Try to improve on the worst.\n</div><div>Remind yourself of the exorbitant price you can pay for worry in terms of your health.Apply the law of averages in your favour.</div><br><div> \n</div><div>\n</div><div>&nbsp;3 - Break the worry habit</div><br><div>\n</div><div>\n</div><div>Keep busy.Don't fuss about trifles.Use the law of averages to outlaw your worries.Co-operate with the inevitable.Decide just how much anxiety a thingDon't worry about the past.</div><br><div> \n</div><div>\n</div><div>4 - Ways to Pease and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Happiness</div><br><div>\n</div><div>\n</div><div>Fill your mind with thoughts of peace, courage, health, hope and prayer.Never try to get even with your enemies.Expect ingratitude.Count your blessings-not your troubles.Do not imitate others.Try to profit from your losses.Create happiness for others.</div><br><div> \n</div><div>\n</div><div>5 - Ways to face criticism and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; grow strong</div><br><div>\n</div><div>\n</div><div>Remember that unjust criticism is often a disguised compliment.Do the very best you can.Analyze your own mistakes and criticize yourself.Learn to relax at your work.Apply the following good working habits. </div><div>a) Clear your desk of all papers except those relating to the immediate problem at hand.\n</div><div>b) Do things in order of their importance.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-t",
+          "_cid": "qx3OrY0Ipz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "major required develop personality",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>The following are the Nine major requirements toward the development of personality<br><br>Kindness<br><br>Cleanliness of Both mind and body<br><br>Unselfishness<br><br>Good Disposition<br><br>Obedience to Ideals and Principles<br><br>Honesty in all things<br><br>Truthfulness<br><br>Loyalty<br><br>Good Health</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-u",
+          "_cid": "qx3P7JCguI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "self improved ideas",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/time-to-improve-620x413.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-v",
+          "_cid": "qx3POAP40X",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Meditation gives you that inner peace like nothing else can. Initially, it is a little hard to concentrate and there will be plenty of distractions. Let these distractions be a part of the learning process. After some time, you will notice that all negativity will be removed and you become happier. <br><br>2 - Sleep gives you a sense of calm and freshness when you wake up. But, try a reverse approach. Wake up about 30minutes earlier than normal and see how many more things you can do. Extra time gives you that extra edge to better yourself. <br><br>3 - It takes fewer muscles to smile than to frown! So you know what you should be doing. Smiles make such a big difference, and when someone around you is happy, it sends out positive vibes. Accept compliments with a smile and thank people for them. Be kind to yourself and everyone will do the same. <br><br>4 - Principles are important in a school, college, at work and at home. They are equally important in you. Principles must be set in a realistic way. It can be as simple as not wasting food or as complex as saving paper. Rules are not meant to be broken. So if you keep your principles on, you've obviously becoming a better person. <br><br>5 - Have complaints about everything? Stop this. It is an extremely irritating habit. Stay around people who don't give you a chance to give in to complaints, distract yourself and send out good signals which will increase your people power. <br><br>6 - Find a mentor or a role model who you'd like to be like. You don't have to become this person mentally and physically, you could implement their way of life into yours. Setting goals is what differentiates a person with good behavioral and mental skills compared to one that has no aim in life. <br><br>7 - Remove unwanted people and things from your life. You are better without them. Go to your room, remove all unwanted letters, posters and make more space for new things. If someone has been bothering you, cut him/her from your life for a while. Lay low till you think you can deal with them. It's about how you feel. Now, you will have a clear and creative mind for the new things to come. <br><br>8 - Television is for the utterly bored! It is junk for the mind and body. If you feel like you need entertainment desperately, then watch something educative for about 30 minutes or so but don't drown in the idiot box.&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-w",
+          "_cid": "qx3POLTPcy",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "some common tips develop personality",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Every man who wants to develop his personality also wants to become popular. <br><br>Man's life is a burden without popularity. If we leave aside certain action, there is not much difference between a man and an animal. <br><br>Everybody can be popular if he/you takes care of these few things enlisted personality development tips-<br><br> \n<div>\n</div><div>1. If you want to progress in life then honestly analyze the traits of your character.</div><br><div> \n</div><div>\n</div><div>2. Do not laugh at people when they are in difficulty or trouble other wise you will loose your personality in a moment.</div><br><div> \n</div><div>\n</div><div>3. This is a great way to develop your personality by listening everyone politely, even if their ideas are baseless or not of your interest.</div><br><div> \n</div><div>\n</div><div>4. During conversation do not keep talking yourself too much.</div><br><div> \n</div><div>\n</div><div>5. When ever somebody brings any gift for you, don't forget to praise it. It does not matter even if you were expecting something else.</div><br><div> \n</div><div>\n</div><div>6. Make other feel that you love them.</div><br><div> \n</div><div>\n</div><div>7. Keep your moral high in case of defeat and be more polite on being victorious.</div><br><div> \n</div><div>\n</div><div>8. Solve your problems in a creative way. Try your best not to let these spoil your relations with your friends.</div><br><div> \n</div><div>\n</div><div>9. Enlist your bad habits and try to get rid of them.</div><br><div> \n</div><div>\n</div><div>10. We should not uplift our standard of living but also help others to do so. Try to remove the feeling of inferiority in others by loving them and by keeping good behavior towards them.</div><br><div> \n</div><div>\n</div><div>11. Be careful of what your say about others because others will say the same thing about us at different times and at different places and in this way form a public opinion about us.</div><br><div> \n</div><div>\n</div><div>12. Some people often have a favorite sentence which they repeat frequently. We should try and get rid of such a habit.</div><br><div> \n</div><div>\n</div><div>13. Independence increases our good qualities and slavery bad qualities.</div><br><div> \n</div><div>\n</div><div>14. Independent thinking and freedom to work is the only source of progress and welfare.</div><br><div> \n</div><div>\n</div><div>15. Love is the greatest magic in this world.</div><br><div> \n</div><div>\n</div><div>16. Positive attitude is of great importance in our personality. Nobody like people who have narrowed out look. In life only that person is considered well behaved who has positive and healthy bend of mind.</div><br><div> \n</div><div>\n</div><div>17. The real beauty of man lies not in his physical appearance but in his work and good qualities. That is why it is important that we improve mental outlook to develop our personality.</div><br><div> \n</div><div>\n</div><div>18. Every individual should develop the ability to adjust with others, because basically man is a social animal, so one can not survive by living alone.</div><br><div> \n</div><div>\n</div><div>19. Some people keep repeating a particular statement and it becomes a part of their nature. At the most you may repeat a statement twice but it you do it more than that it leaves a bad impact. \n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-y",
+          "_cid": "qx3QzbsREI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "tips for being your self",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/be-happy-quotes-images-for-girls-4-d6371af8-500x300.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-z",
+          "_cid": "qx3QPd4ipJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Who Are You?<br><br> \n<div>\n</div><div>There's no possible way you can be yourself without knowing who you really are. You pretend to idolize football player David Beckham because your neighbor does and you want to gain his approval. Soon enough you will realize that you don't know what interests you because you've been whiling away time with what least interests you. </div><br><div>Understand yourself, figure out where your deepest passion lies and be proud of your qualities. Contemplate your life and the choices you've made. Take personality tests and you will eventually disentangle the buried mesh of what had been your true interests and hobbies all along! Accept it with pride!</div><br><div> \n</div><div>\n</div><div>2 - Forget The World!</div><br><div> \n</div><div>\n</div><div>So what if the person besides you passed a nasty comment on your outfit. As long as you're comfortable, does it really make a difference to your welfare? Or do you hesitate to raise your hand in class to ask the question that's persistently been pestering you simply because you fear your classmates might find it silly and doubt your intelligence. </div><br><div>Why is their opinion even worth it? You should feel stupid for putting their opinions before your clarity on the subject! Forget the world, live your life and be yourself. Happiness will be right behind you!</div><br><div> \n</div><div>\n</div><div>3 - Breathe &amp; Be Honest</div><br><div> \n</div><div>\n</div><div>Why do you want to live through the rest of your life safeguarding your sticky web of lies? Life is never rosy for anybody. Maybe at the beginning, you might not be as fortunate as certain other coveted beings. Nevertheless, if you hold your breath and take each day as it comes, life's delicate balance will soon manifest itself. </div><br><div>There is no good reason to be ashamed of who you are. Whether it's a physical or mental shortcoming, the most trusted way to overcoming it is by acknowledging it with courage. We are all blighted with flaws and by hiding them, we are only adding to that list!</div><br><div> \n</div><div>\n</div><div>4 - Express Your Individuality</div><br><div> \n</div><div>\n</div><div>The moment self-confidence is on your side, a beautiful and unique personality will blossom! Standing out isn't easy but it usually comes from within. </div><br><div>It might be a skill, or a manner of speaking or infectious charisma. Build up on a character that singles you out from everybody in your planet. </div><br><div>Be yourself. Even oddly colored slippers might accentuate your eccentric character after which you might garner admiration from different sides. Don't be a prototype, be a proud unique individual.</div><br><div> \n</div><div>\n</div><div>5 - Believe In Yourself</div><br><div> \n</div><div>\n</div><div>Take off that hideous mask and unleash the beauty hidden underneath its eternal ugliness! If you try to be what you're not, you're going to be unhappy through the remainder of your fake life. </div><br><div>Thrive on solitude, engage in soul searching and you will soon be well acquainted with your new best friend- The Real You. Life will soon turn into a elongated party interspersed with memorable episodes of sadness, joy, laughter, bitterness and all the emotions experienced in the life that is worth living!&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-10",
+          "_cid": "qx3QPruk1U",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "way how to not argue",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Enhance your listening skills. It will make you less defensive and allow you to analyze the statement of other person deeply. <br><br>You should listen to the other person with patience and give a logical approach to the same. <br><br>Let the other person complete what he/she wants to say. Once he/she is done, give your feedback. This would allow both of you to lay forward your view point. <br><br>However, make sure that whatever is said is logical and pertains to the present situation.<br><br> Never think that you are always right. If people have been correcting you time and again, know that there is some problem which lies inside you. Accept that you have a problem of arguing on small issues and work on it to exclude the same from your behavior. <br><br>Accepting your weakness will strengthen your relationship.<br><br> Also, ask them to help you come out of the problem. Inculcate understanding in yourself. Instead of thinking about your own issues, try to understand the other person's views, feelings, state of mind, etc. This will help you to talk calmly and make the relationship a strong one. <br><br>After understanding the other person, your approach will not be illogical or defensive. <br><br>The feedback will be based on the feelings of both the people and not only yours. <br><br>Introspect yourself and increase your self control power. <br><br>Also, be aware of the place and people around before heading towards an argument. <br><br>A couple must never involve in the argument in front of their children. It may have a bad impact on them. <br><br>Respect each other to share great relationship. Similarly, indulging in a heated argument in a public place such as a mall or cinema hall would make people think of you as uncivilized. <br><br> Be positive in your thinking. It will exclude negativity from inside and you will have a healthy approach towards any issue.<br><br> If you have positive nature, you will never get involved in any kind of argument. Do not make excuses and be truthful. <br><br>Improve yourself rather than giving explanation all the time.&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-12",
+          "_cid": "qx3R6rBleA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "calm down your nervs",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/01da1fade1e550a62bd69a52ed7d205c-motivational-sayings-quotes-inspirational-735x732.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-13",
+          "_cid": "qx3RC1mUBF",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Every time you feel your nerves are about to mess it all up, just stop thinking at that very moment and concentrate solely on breathing. Inhale deep breaths and exhale even slowly. Feel the nerves calm down inside you! <br><br>2 - The good old way of counting to ten; old because it has been used since ages and good because, obviously it works wonders. Whenever you feel the nervous energy building up inside you, just count to ten and watch it give way to loving calmness. <br><br>3 - Ever heard of laughter yoga? It combines intentionally induced laughter (genuine laughter) and yogic breathing into one fun activity from where there's no getting out. No better way to release the tension. <br><br>4 - Meditating in the name of whoever you believe in is a good way of bringing in positivity, giving the hopped up nerves a much-needed break. You can also recite your favorite verses from the scripture that infuses you with a mental boost. <br><br>5 - For a change, try wearing a smile on your face instead of a frown. You'll not only see but feel the change around you and eventually inside you. Keep yourself in the vicinity of cute little smile inducing one liners or figures. <br><br>6 - Grab a pen, grab a diary, grab hold of your thoughts, and now pour them all out. It's the best way of releasing the built up emotions, thus releasing the nervousness that had held you captive to your own self. <br><br>7 - Change your environment every now and then by shifting out of everything that's been creating a chaos inside your mind and moving to a serene environment where you can put your thoughts to rest and can rejuvenate your tensed up senses. <br><br>8 - Use positive affirmations. It's a wonderful little way of inducing positivity into your system by reciting short little positive statements about your strengths and aspirations. By doing so, you'll eventually start to visualize yourself in positive situations devoid of any negative nerves. <br><br>9 - Include fresh vegetables, fruits, and drinks into your diet instead of packaged food and unhealthy aerated drinks or caffeine-laded drinks. Regular indulgence in recreation activities like exercising, walking, jogging, swimming, or cycling will definitely open the exit route for your nerves. <br><br>10 - Most importantly, let go off that �trying to be in control� kind of attitude and take things the way they come. Life's all about the journey and not about the destination. Enjoy the panoramic view till you reach your destination.&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-14",
+          "_cid": "qx3RCy5bvj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page18.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "how to increase concentration",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/0814meditation04-961x641.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-15",
+          "_cid": "qx3UymAk19",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Pick a valid subject of concentration. If there is no passion or plausible motivation, then your task of concentrating is going to be one hell of a challenge! <br><br>Remember how you used to do the laundry or mow the lawn so half heartedly and the outcome was a disaster? Analogously, you cannot ace your mathematics test if you resent it and hence if you fail to concentrate, you will also fail the test! <br><br>2 - The Five More Rule is a technique that has certainly helped many individuals who invariably fall short of concentration. <br><br>You set a target to finish a fixed amount of work or studying. However, ten minutes later, you are already tempted to step out for a smoke or check the football game score. <br><br>Block all lures and enticements to immerse your heart and mind into achieving your goals. Solve five more math problems or dedicate five more minutes to a chapter of history, or else face guilt when you indulge in play. To your delight, five minutes is all it takes to engross you to such an extent that you forfeit your break! Stretch your attention span and build mental endurance! <br><br>3 - If you are convinced you have the world's lowest attention span, here's an interesting exercise. Walk into a movie theater and catch up on a random gripping action or drama film. <br><br>Thirty minutes into the movie, shift your gaze from the screen and look around. What do you see? Probably a hundred riveted faces. If you stare long enough, you will notice how rarely they blink. Only a false alarm of a fire breakout could distract them! Observe the audiences and learn the art of concentration as they stay still scene after scene. <br><br>4 - To encourage your strong desire to maintain concentration, eliminate stumbling blocks such as multi-tasking, blaring radios or TV sets and flashing multi-colored lights. <br><br>No doubt that our human nervous system is fantastic beyond words.<br><br> However, we should not expect too much from it! Hence, stick to one task at a time! It will be greatly challenging to assimilate intense facts on quantum physics while catching the latest episode of �The Simpsons', munching on a packet of crunchy chips and getting a foot massage! Build strong concentration abilities as you exercise all of your brain power in solely one task! <br><br>5 - Mediation might help you gather your thoughts methodically. Watch your breathing; calm it down along with your brain. Soon enough you will automatically shift to an alternative state of mind which is peaceful and creatively receptive. <br><br>6 - Set aside multi-tasking, multi-thinking can do equal damage! Channel your thoughts in one direction. <br><br>If you have promised to study for an hour, try not to think of �Oh what could Marsha be doing right now� or �Is he cheating on me?� or �What do I eat for dinner!� Focus on the present! Life is a ticking time bomb and if you don't handle the undertakings purposefully, your future will explode in your face. <br><br>7 - Take breaks, get some air and calm down. Don't let the nerves get on to you. Concentration and energy co-exist in your conscious or subconscious mind. <br><br>Don't be a scatter brain. Just maintain a calm demeanor while concentrating completely in meeting your targets. <br><br>8 - Defeat every lurking urge to procrastinate your responsibilities. <br><br>Yes, preparing for an exam or finishing all your corporate deadlines might not be a bed of roses. <br><br>Wake up! Life is difficult. And if you procrastinate, you will only be rewarded with an endless list of regrets. <br><br>You might wonder- �How can I resist the Oprah Winfrey show tonight!' What if it doesn't repeat? News Flash - This second or minute or hour of your life is never going to return and if you make the most of it, you might be sitting on Oprah Winfrey's couch one day! <br><br>9 - It's amazing how our brains operate in such bedazzling ways. For instance, we drive down the road while talking or fiddling with radio or engaging in soliloquies. <br><br>It's dangerous but most of us do it. How do we handle all the 101 thoughts and distraction from impeding our concentration abilities? Try cupping your hands around your eyes to block sight of everything unrelated to your current priority. <br><br>Referred to as tunnel vision, this technique ensures that your eyes do not wander away from your book or laptop screen! Use your hand as blinkers and narrow your concentration to what you have in front of you! It gradually turns into a ritual as you constrict the innate wide angle focus of your brain. <br><br>10 - Infuse personal interests into your projects and tasks by manipulation. View them from different angles as long as the core remains the same. This will surely make the work less boring. <br><br>11 - Foods such as fish, chicken and meat are known to improve your attentiveness. Increase your intake of fresh juices and boost your levels of vitamin C. \n<div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-16",
+          "_cid": "qx3UyFxpJh",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page19.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "ways to overcome public speaking nxiety",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/wrench-fig01-x006-2084x1677.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-17",
+          "_cid": "qx3W1mSiJ1",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>1 - Erase The Preconceived &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Notions<br><br> \n<div>\n</div><div>People typically associate the task of public speaking with stress! This is absolutely untrue! Public speaking is only stressful if you allow it to be! Ironically, if you shake off this incorrect belief, public speaking can be a very enjoyable and invigorating experience for you. </div><br><div>Try to dig out the hidden cause for your fear, diagnose it and say hello to a new fun hobby! Knock off the fear of public humiliation! You're overreacting! It's purely psychological. Stage fright can be curbed with a smooth build up of self-confidence. The best way to start that process is by facing reality and accepting that public speaking is not as difficult as you once thought!</div><br><div> \n</div><div>\n</div><div>2 - Capitalize On Three Good &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Points</div><br><div> \n</div><div>\n</div><div>Stumble upon three relevant points and you're ready to nail it. In other words, you have good potential to set the stage on fire! Maintain a calm and composed demeanor! You don't have to be the funniest or smartest orator on the planet to receive a round of applause. </div><br><div>Even if you make a couple of mistakes, skip a few important portions of your speech and pause for a minute, you haven't necessarily failed! Stop focusing so much on your performance, it's the value of the content effused that matters most. </div><br><div>As long as audiences have something valuable to take back home (or with a smile on their faces), you will be remembered positively. </div><br><div>Bear in mind that heaps of inconsequential facts does not augment your orator status. Stick to two or three clever points and render your speech interesting and genuine. Stress on one key point if you strongly believe in it. </div><br><div>Diminish the number of quick notes and let words flow straight from the heart to the tip of your tongue! Avoid silly complexities for you will end up boring the crowd.</div><br><div> \n</div><div>\n</div><div>3 - Prepare But Don't Over- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Prepare</div><br><div> \n</div><div>\n</div><div>Preparation is essential. More importantly, prepare well in advance and not overnight for anxiety will double and the outcome will be messy. Practice does indeed make a man perfect but never overdo it. </div><br><div>A speech turns superficial when planned too far ahead. It should be natural! In fact, the more effort you put into it, the worse might be your performance. So, don't over-prepare! Relax and take a deep breath! Just rehearse once and revise the key points along with a few good examples. </div><br><div>Memorizing a speech verbatim only ruins the authenticity of a speech and implies that you don't have a firm grasp over the subject. Try not to script the speech! Gain self confidence and you will soon begin to respect the natural public speaker hidden deep down inside of you.</div><br><div> \n</div><div>\n</div><div>4 - Select A Topic That Interests &nbsp; &nbsp; &nbsp; You</div><br><div> \n</div><div>\n</div><div>It will make all the difference if you chose a topic that you feel strongly passionate about! You will feel excited to research the topic and make the overall speech as interesting as possible. </div><br><div>As you immerse your heart into it, you will notice your phobia slip away. Even when you have no choice but to resort to a lackluster topic, you could make alterations to the technique or approach of speech making. </div><br><div>For example, make a colorful PowerPoint presentation or screen a funny video! The surging enthusiasm will tranquilize the goosebumps.</div><br><div> \n</div><div>\n</div><div>5 - Be Humble, If Not Humorous</div><br><div> \n</div><div>\n</div><div>While adding a glint of humor to your speech would earn you brownie points, it's not mandatory. </div><br><div>It is important to discover your style of speaking and work on improving that. </div><br><div>However, it is important to maintain a fine sense of humility throughout your speech. </div><br><div>When you stand up in front of the masses, share some of your weaknesses and frailties. This highlights your image as a credible, respectable and lovable speaker. </div><br><div>Audiences will be able to connect with you and respect your honesty. If at all, humility isn't your style, don't feign it! </div><br><div>The pretense of acting humble is easily detectable and this will trample your image in no time! You could hence make up for it by capitalizing on your good sense of humor! After all, who doesn't enjoy a good hearty laugh! Start with a joke or narrate a bunch of anecdotes, just don't digress from the actual topic.</div><br><div> \n</div><div>\n</div><div>6 - Don't Let Hecklers Get To &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You!</div><br><div> \n</div><div>\n</div><div>Hecklers are all over the place and most of the time, they do a pretty good job at tormenting speech makers! However, it is in your best interest that you master the art of turning a deaf ear to such obstacles or counter-attack their witty statements with a wittier one. This most definitely helps you overcome all fears. But if you are still battling with glossophobia, then you should try your best and ignore those silly sadists or respond with an \"I really appreciate your comment\".</div><br><div> \n</div><div>\n</div><div>7 - Visualize Success</div><br><div> \n</div><div>\n</div><div>Elite athletes rely on the technique of visualization to enhance their athletic performance. </div><br><div>Every time you rehearse your speech, visualize your audience being amazed by your oratory skills! It is best to believe in yourself and that you are conveying solution for a very strong ground-breaking problem. Hence, your audiences ought to be impressed. </div><br><div>Hear the cacophony of thousand claps and \"wows\" every time you emphasize on the last sentence of your speech! Boost your confidence! \n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-18",
+          "_cid": "qx3W1Ypbnz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
