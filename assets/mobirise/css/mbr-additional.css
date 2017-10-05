@@ -1337,36 +1337,8 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qx4RNKNbLp {
-  padding-top: 0px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-qx4RNKNbLp .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qx4RNKNbLp .section-text {
-  padding: 2rem 0;
-  text-align: left;
-  color: #232323;
-}
-.cid-qx4RNKNbLp .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qx4RNKNbLp .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qx4RNKNbLp .section-text DIV {
-  text-align: left;
-}
 .cid-qxbdIP8NMs {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2611,31 +2583,64 @@ body {
 .cid-qx4KnejyWD .section-text DIV {
   text-align: left;
 }
-.cid-qx51E5B9UG {
+.cid-qxbkOKdnoP {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qxbkOKdnoP .mbr-text,
+.cid-qxbkOKdnoP blockquote {
+  color: #767676;
+}
+.cid-qxbkOKdnoP .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-qxbkjSVZ99 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qxbkjSVZ99 .mbr-text,
+.cid-qxbkjSVZ99 blockquote {
+  color: #767676;
+}
+.cid-qxbkjSVZ99 BLOCKQUOTE {
+  color: #232323;
+}
+.cid-qxbkk6tmhD {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qx51E5B9UG .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-qxbkk6tmhD .mbr-text,
+.cid-qxbkk6tmhD blockquote {
+  color: #767676;
 }
-.cid-qx51E5B9UG .section-text {
-  padding: 2rem 0;
-  text-align: left;
+.cid-qxbkk6tmhD BLOCKQUOTE {
   color: #232323;
 }
-.cid-qx51E5B9UG .inner-container {
-  margin: 0 auto;
+.cid-qxbkkeFhYR {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-@media (max-width: 768px) {
-  .cid-qx51E5B9UG .inner-container {
-    width: 100% !important;
-  }
+.cid-qxbkkeFhYR .mbr-text,
+.cid-qxbkkeFhYR blockquote {
+  color: #767676;
 }
-.cid-qx51E5B9UG .section-text DIV {
-  text-align: left;
+.cid-qxbkkeFhYR BLOCKQUOTE {
+  color: #232323;
+}
+.cid-qxbkklvPkJ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qxbkklvPkJ .mbr-text,
+.cid-qxbkklvPkJ blockquote {
+  color: #767676;
+}
+.cid-qxbkklvPkJ BLOCKQUOTE {
+  color: #232323;
 }
