@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Home</title>
+  <link>https://babitaji.github.io/personality/</link>;
+  <description>Home Description</description>
+  <item>
+    <title>Home Description</title>
+    <link>https://babitaji.github.io/personality/</link>;
+   
+<description>With Dictation, you can use the magic of speech recognition to write emails, narrate essays and long documents in the browser without touching the keyboard. To get started, just connect the microphone to your computer and click the Start Dictation button. Dictation uses your browser's local Storage to save all the transcribed text automatically as you speak. That means you can close the browser and it will resume from where you left off. The app internally uses the built-in speech recognition engine of Google Chrome to transform your voice into digital text.</description>
+
+</channel>
+</rss>
