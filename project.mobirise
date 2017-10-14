@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Personality Development",
-    "currentPage": "page27.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 175,
+    "uniqCompNum": 182,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3512,9 +3512,64 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Live",
-        "order": 4
+        "order": 5
       },
       "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page30.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x556.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Why Morning Rituals are Important<br>Oct 14, 2017&nbsp;</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page31.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x541.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">7 Types of People You Need to Be Away From<br>Oct 13, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-4v",
+          "_cid": "qy0eYpIyw2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
         {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -3576,7 +3631,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3689,7 +3744,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3791,6 +3846,232 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;Ever tried to speak on any topic in public? Ever gathered guts to stand up and speak in front of 250 human beings? No? Ask yourself why and the only answer you get will be a lack of confidence.<br><br> \n<div>\n</div><div>&nbsp; When you have two ways to choose from and if both the ways mislead you, there is always a third way you need to carve out. There is either lack of confidence or over-confidence. You need to walk on the mid-path, confidence.</div><br><div> \n</div><div>\n</div><div>&nbsp; Confidence, in simple words, means the presence of mind. You cannot gain confidence over-night.<span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">What you need is practice. </span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">&nbsp; Confidence is a skill that needs to be developed. Gather a small audience of your friends and deliver a speech in front of them. </span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">&nbsp; &nbsp;Even speak to yourself while standing in front of the mirror. The key to confidence is self-trust and self-motivation. Trust yourself enough that you will do well and motivate yourself enough that you can achieve the skill. &nbsp;</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span></div><div>\n</div><div>&nbsp; The more you will speak, the more confidence you will gain. Mistakes are inevitable while practicing but they are the key ingredients that will boost up the confidence in you. </div><br><div>&nbsp; Speak whenever you get a chance. Note down the moments you stop and work on those weak points. Remember, Rome wasn’t built in a day. It is the failure that leads the man towards success. </div><br><div>&nbsp; If you are failing, it means you are trying and if you are trying, success is just at your doorsteps already!\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-4p",
           "_cid": "qxs0RR0uyq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page30.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Why Morning Rituals are Important",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Why Morning Rituals are Important</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-4y",
+          "_cid": "qy0gf34kPI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x556.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-4x",
+          "_cid": "qy0g25pfal",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>All night up &amp; all day down, this has been a part of our lifestyle for so many years now. <br><br>But, it does not matter what excuse one makes, early morning routines are always better than keeping you up till 2 or 3 in the night. <br><br>As soon as you will realize and wake up at early hours, you will get to know the difference between waking up early and staying up at night. <br><br>The default time for our biological clock sets us most active during the time zones of early morning. <br><br>Now, according to the most successful people, you should wake up at 5:30 am and start working out after which you should prioritize the most important to-do works and keep doing them. <br><br>You will notice the change in your accuracy, concentration and of course the output. Let us know in this article, why morning rituals are necessary?<br><br> \n<div>\n</div><div>What are the detailed benefits of individual steps of Morning Ritual?</div><br><div>\n</div><div>\n</div><div>A basic morning ritual should look like this :-</div><div><br></div><div>\n</div><div>1. Silence:</div><div><br></div><div>Did you ever notice the essence and power of silence during the day? If not, then you are missing out on something very powerful. After you wake up, take your mind to either a complete silent zone or indulge into spirituality for 5 minutes.</div><br><div> \n</div><div>\n</div><div>Benefit – It restricts your mind of splurging out unnecessary thoughts right from your morning. This helps you focus on more important things!\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>2. Start Working out:</div><br><div> \n</div><div>\n</div><div>If you are a night owl, you should do this to keep you woke up during the early hours of the morning. </div><br><div>Not much just 7 minutes of stretching out would do the job. All you have to make sure about that is to be regular in it and not to quit in between.</div><br><div> \n</div><div>\n</div><div>Benefit – It sets your mind and body aligned and helps your brain in functioning more. \n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>3. Cold Showers:</div><br><div> \n</div><div>\n</div><div>Don’t wait for long to take a shower, just do it after your workout. Also, remember that you do not want to spend more than 5 minutes in taking a shower every morning. Also, never pamper yourself to sleep with warm water but splash cold water on yourself.</div><br><div>\n</div><div>\n</div><div>Benefit – This is one of the best morning charges that you could give to yourself. It makes your sleep or tiredness go away in what 5 minutes?\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>4. Meditate:</div><br><div>\n</div><div>\n</div><div>If you haven’t already, start meditating in a routine. You will get to know the power of focusing on something and also will feel up for the most part of the day. </div><br><div>For starters, you can start meditating for 10 minutes a day or even less and try to concentrate on different things.</div><br><div>\n</div><div>\n</div><div>Benefit – Keeps you active, puts your focus on what is important and eliminates toxic thoughts.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>5. Hot Coffee/ Green Tea:</div><br><div>\n</div><div>\n</div><div>To stimulate your metabolism and to help you charge yourself, getting a cup of something hot is very important. </div><br><div>Grab your favorite mug after your shower and pour in your favorite hot beverage to get started with the day. It should take you 2 minutes to do so.</div><br><div> \n</div><div>\n</div><div>Benefit – Increases your metabolism, keep you awake for long hours and increases concentration. \n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>6. Read:</div><br><div>\n</div><div>\n</div><div>Take a motivational novel and start reading it for 15 minutes every day to charge yourself and bring that spin of positivity before getting along with your work. Reading something inspirational never leaves you demotivated.</div><br><div> \n</div><div>\n</div><div>Benefit – Makes you thoughtful and keeps you feeling motivated every single time.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>7. Jot Down:</div><br><div>\n</div><div>\n</div><div>Start writing down your goals for the day and what you want to achieve till the end of the day. Believe it or not, this ritual is the most powerful of all. </div><br><div>Writing your goals down helps you visualize things and also helps you in prioritizing things. It should take you a maximum of 5 minutes every day.</div><br><div> \n</div><div>\n</div><div>Benefit – Makes you stick to your set of tasks, prioritize things for and also manages your time wonderfully. \n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-4w",
+          "_cid": "qy0fZXxZOQ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page31.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "7 Types of People You Need to Be Away From",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>7 Types of People You Need to Be Away From</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-4z",
+          "_cid": "qy0h5pa74c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x541.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-50",
+          "_cid": "qy0h6t2u5D",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>During the roller coaster ride that our life is, we tend to meet people who bring every shade of color into our life. <br><br>Some bring the brightest of colors to drag us into the zone of immense happiness, while others bring the darkest of colours to make us experience the worst times of our lives. <br><br>One can learn to live happily only when they get to know about the true colors of the people existing around them.<br><br>\n<div>\n</div><div>If you want to bring a positive change in your life and create a positive ambiance all around everywhere you go, then you need to sort out the kinds of people you spend your time with. </div><br><div>It is no surprise at all that double-faced people still exist and will try to destroy your life as much as they can while putting that fake little smiles on their faces. </div><br><div>Time to tell them BYE! How many types of these people exist? I will let you know through this article.</div><br><div>\n</div><div>\n</div><div>1. Those for whom everything is black and shady:</div><br><div>\n</div><div>\n</div><div>Yes, I am talking about those who have more of a pessimistic mindset. They would never miss a single chance to fill your life with such utter negativity that you cannot even imagine it. </div><br><div>For them, every single thing is next to impossible and can’t be worked out anyway. Believe it or not, being with these people can make you very negative and a naysayer! Whenever you get a chance, tell them politely that you are going to do it the other way round.\n</div><div>\n</div><div>&nbsp;\n</div><div>2. Those who ‘Gossip’ about people:</div><br><div>\n</div><div>\n</div><div>Trust me; these kinds of people never spare anyone in their lives. If today they are bashing somebody for simply no reason, then tomorrow you may be bashed by them. </div><br><div>Research says that these kinds of people aren’t satisfied with all they have and usually try to fill the deep void in their lives by gossiping. Now, do you want to be a part of that shallow void? If no, then be separated from these people.\n</div><div>\n</div><div>&nbsp;\n</div><div>3. Those who try to play their victim card:</div><br><div>\n</div><div>\n</div><div>As hard as it may sound, you need to get off your ass and stay from their problems. </div><br><div>I don’t mean that you should be rude and not help anybody who is in need, but you need to understand that helping is fine until it starts sucking into a zone called depression. </div><br><div>These types of people are most depressed of their lives and have absolutely nothing to talk about except for telling you how miserable life is. It will be a matter of time until you will find yourself getting sucked in and convinced by their thoughts.\n</div><div>\n</div><div>&nbsp;\n</div><div>4. The Moneylenders:</div><br><div>\n</div><div>\n</div><div>In spite of having a bank account with sufficient money in it, these people choose to live their lives on other’s money.</div><br><div> I just have one suggestion for you and that is learning to say no (You must read our fully-fledged article on Learn to Say No). </div><br><div>Come on, you need to realize that they are sucking your hard-earned money from you even when they have their own to spend. Trust me; there is nothing wrong in saying the things that you believe are right.\n</div><br><div><br></div><div>\n</div><div>\n</div><div>5. The Arrogant Souls:</div><br><div>\n</div><div>\n</div><div>It is fine to be on Cloud 9 and celebrate your success, but letting it be in your head all the time is something you should be careful of. Some people are so arrogant and egoistical that they never miss a chance to belittle others for no reason. </div><br><div>Apparently, they feel good about themselves by doing so! Sad little reality it is, right? I would suggest you keep a distance from such harsh people and let them live in their own little bubble.</div><br><div>\n</div><div>\n</div><div>\n</div><div>6. The Bullies:</div><br><div>\n</div><div>\n</div><div>They really do walk freely among us and pick on people who are innocent. Seems like they find themselves in power to humiliate and even hurt those who have done absolutely nothing against them. Yes, you need to stay away from these people. </div><br><div>Bullying is an unlawful practice and you can suffer a lot even by encouraging the act! As soon as you see someone bullying others, report the matter to the concerned authority and stop it for once and for all.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>7. The Quarrelsome:</div><br><div>\n</div><div>\n</div><div>In bold words, these people are dear to no one. They can threaten you, hurt you or even abuse you just for their downs of mood swings. </div><br><div>Anyway, who wants to be with such a person who would die to put the last word into an argument even if it doesn’t make any sense at all.\n</div><div>\n</div><div>In the end, I would like to conclude by saying that life offers you all kinds of people, both friendly &amp; toxic. </div><br><div>You need to be wise and calculative about keeping them in your lives or not! Best of luck.\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-51",
+          "_cid": "qy0h8J1CBk",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
