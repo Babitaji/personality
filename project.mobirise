@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 189,
+    "uniqCompNum": 196,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -3512,7 +3512,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Live",
-        "order": 7
+        "order": 3
       },
       "components": [
         {
@@ -3562,7 +3562,62 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page33.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171016-1014x562.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Know Yourself<br>Oct 16, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page32.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171016-995x560.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Body Language<br>Oct 16, 2017 &nbsp; &nbsp; &nbsp;&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page34.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171020-1025x564.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How you can be Humble and leave an Impact!<br>20 Oct, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page35.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171020-1034x564.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How to Be The Best Man Every Woman Wants<br>19 Oct, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-59",
+          "_cid": "qyBX3ritm2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page33.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171016-1014x562.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Know Yourself<br>Oct 16, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page32.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171016-995x560.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Body Language<br>Oct 16, 2017 &nbsp; &nbsp; &nbsp;&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-52",
           "_cid": "qydMSz2dod",
           "_protectedParams": [],
@@ -3617,7 +3672,7 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page30.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x556.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Why Morning Rituals are Important<br>Oct 14, 2017&nbsp;</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page31.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x541.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">7 Types of People You Need to Be Away From<br>Oct 13, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page30.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x556.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Why Morning Rituals are Important<br>Oct 14, 2017&nbsp;</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page31.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171014-1000x541.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">7 Types of People You Need to Be Away From<br>Oct 13, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-4v",
           "_cid": "qy0eYpIyw2",
           "_protectedParams": [],
@@ -3672,7 +3727,7 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked=\"\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page29.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171008-1015x563.jpg\" alt=\"\" title=\"\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How To Build Confidence &nbsp;<br>Oct 6, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page28.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171008-1007x5380.jpg\" alt=\"\" title=\"\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Stop Your Self From Getting Too Attached To People Or Things<br>Oct 5, 2017 &nbsp; &nbsp; &nbsp;&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page29.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171008-1015x563.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How To Build Confidence &nbsp;<br>Oct 6, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page28.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171008-1007x538.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Stop Your Self From Getting Too Attached To People Or Things<br>Oct 5, 2017 &nbsp; &nbsp; &nbsp;&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-4u",
           "_cid": "qxVAuiPEy3",
           "_protectedParams": [],
@@ -3686,7 +3741,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -3799,7 +3854,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -3861,7 +3916,7 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171008-1015x5631.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171008-1015x563.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_anchor": "image2-4o",
           "_cid": "qxs0Rt0eKx",
           "_protectedParams": [],
@@ -3912,7 +3967,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Morning Rituals are Important",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -4025,7 +4080,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "7 Types of People You Need to Be Away",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -4138,7 +4193,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Body Langue",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
@@ -4251,7 +4306,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "yourself",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -4353,6 +4408,232 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>When we talk about personality, it should be such a dynamic that everyone gets a positive impact from you. This special ingredient in your personality can only be achieved if you know yourself.<br><br> \n<div>\n</div><div>Many people take decisions and judgment without thinking. </div><br><div>You must first and foremost think about yourself and know your plus points and your drawbacks. If you very well understand yourself, you can judge what’s good for you and what’s bad.</div><br><div> \n</div><div>\n</div><div>If you hardly think about yourself and just go for development of yourself, you may get misled. </div><br><div>Everyone has their own positive points and limitations. Everyone is unique. </div><br><div>You need to have a look at your inside and see what you need the most and what you need to developWhen we talk about personality, it should be such a dynamic that everyone gets a positive impact from you. </div><br><div>This special ingredient in your personality can only be achieved if you know yourself.</div><br><div> \n</div><div>\n</div><div>Many people take decisions and judgment without thinking. You must first and foremost think about yourself and know your plus points and your drawbacks.</div><br><div> If you very well understand yourself, you can judge what’s good for you and what’s bad.</div><br><div> \n</div><div>\n</div><div><br></div><div>If you hardly think about yourself and just go for development of yourself, you may get misled. Everyone has their own positive points and limitations. Everyone is unique.</div><br><div> You need to have a look at your inside and see what you need the most and what you need to develop</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-55",
           "_cid": "qydP3Q9IZa",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page34.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "Humble",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>How you can be Humble and leave an Impact!</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5d",
+          "_cid": "qyBYI29XvB",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171020-1025x564.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-5e",
+          "_cid": "qyBYIbiCc8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Every person around the world would have a stronger feeling over the other. The traits and attitude of the person are usually dependent on the way they seem to the world. <br><br>In the current world of globalization, the impact of a person’s characteristic is huge. The same would be applicable for the opposite person’s perspective. <br><br>There are many ways to represent yourself to the world in a motivational fashion yet the impression completely depends on the person observing your behavior. <br><br>Every day you might come across people who would embarrass you and you can also come across people whom you feel embarrassed with. <br><br>Particularly there are no certain rules to feel like How to be and what to showcase but the scenario completely enacts according to the situations and the location of the action.\n<div>\n</div><div>&nbsp;\n</div><div>\n</div><div>There are importantly some etiquette for each action and place of action. Some might be listed as below:</div><br><div>\n</div><div>\n</div><div>• Home etiquettes\n</div><div>\n</div><div>• Office etiquettes\n</div><div>\n</div><div>• Party etiquettes\n</div><div>\n</div><div>• Meeting etiquettes\n</div><div>\n</div><div>• Driving etiquettes, etc.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>In all the etiquettes, the focal point is your reaction to the situation. </div><br><div>The way you express yourself might get different with the focal point but the characteristic of you remains the same. </div><br><div>A person might feel comfortable with the gesture you make and reactions show to their actions. All the things that happen to be messed are basically due to the reactions you show to the person. Things are also sorted with the reactions.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>Being Humble:</div><br><div>\n</div><div>\n</div><div>When we speak about humanity, the best-sorted group of individuals lies in Buddhists. </div><br><div>There are some situations where we become completely blank and we tend to react abruptly which happens to make the other person low. </div><br><div>The humanitarian traits could be engulfed and enacted according to the situation when the person is built up with a bit of discipline.</div><br><div> The word discipline seems to be a very big comment but it means the etiquettes we need to follow when someone has an eye on us or when someone surrounds us.</div><br><div>\n</div><div>\n</div><div>The thing called humbleness is a small yet powerful tool that helps you gain too many friends or gather many people around you. </div><br><div>This tool has the capability to lift up your attitude to a next level of being human. This tool also helps a person to pull out of the detrimental self-deprecation and makes the person come into the positive world.</div><br><div>\n</div><div>\n</div><div>Now the question arises on how to gain the traits of humanity or being humble?</div><br><div>\n</div><div>\n</div><div>The answer is quite simple and to say in short words, you have to be calm when you have a situation and think twice before taking a decision. </div><br><div>Now, this alone does not land you in the world of Humanity but helps to come into the essence of Humbleness.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>• Always speaking in low tone and slow pace is yet another thing that can boost up your humble trait</div><br><div>\n</div><div>\n</div><div>• Before taking any decision, think about the surroundings and think about the consequences.</div><br><div>\n</div><div>\n</div><div>• Make yourself to any meditation activities</div><br><div>\n</div><div>\n</div><div>• Keep yourself well connected to the different groups of the society</div><br><div>\n</div><div>\n</div><div>• Try to explore the valleys of the poor lives.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>&nbsp; The above actions can be done when you wish to transform yourself into a complete humble person but when you have a strong determination in yourself to help people. </div><br><div>When you want to be polite to the people, the first step is to maintain humanitarian standards. </div><br><div>After you make peace within yourself you will see an illuminated path forward.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-5f",
+          "_cid": "qyBYInp8Ka",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page35.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Man Women",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>How to Be The Best Man Every Woman Wants</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5a",
+          "_cid": "qyBYoh58x0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171020-1034x564.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-5b",
+          "_cid": "qyBYos1CtE",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>They say “Behind every successful man there is a woman”, indeed, it is true but the fact is only when you know how to keep her happy. <br><br>All of us want our life to be happy personally and professionally, and by personally I mean in terms of our partners and family. <br><br>A happy wife means a happy life but how many of us really know this art of keeping our girlfriends, wives or partners happy? Have a look<br><br>\n<div>\n</div><div>1. Don’t Act Desperate:</div><br><div>\n</div><div>\n</div><div>Guys, this is a warning if you don’t have a girlfriend and are planning to make one, I mean if you are seeing someone, or are friends with someone you like, don’t try to get too clingy or desperate to be in a relationship with them, take things slow, the more you try the more they will go away.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>2. Girls Want Pampering and Sweet Talks:</div><br><div>\n</div><div>\n</div><div>Every one of us wants to be pampered like a kid, but this is more so with girls. Moreover, they want someone in their life who can take care of them like a father. And here is a tip, a girl’s heart can be melted and won just by talking sweetly, try it!\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>3. Respect Her and Her Family:</div><br><div>\n</div><div>\n</div><div>A girl can go to any measures to keep you happy but once she starts to think that her self-respect is at the stake, there is no turning around, also respect her family as much as you want her to respect yours.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>4. Be Supportive:</div><br><div>\n</div><div>\n</div><div>In this male chauvinistic society, there could be nothing better than a partner or boyfriend who can support a girl in her career-related decisions. </div><br><div>Support her when she needs you emotionally, you don’t have to say anything just listen to what she has to say.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>5. Be Ambitious but Not Too Much:</div><br><div>\n</div><div>\n</div><div>It is good to be career oriented but doesn't forget your girl in the process, she wants your time and not your money, if you think you can keep her happy with expensive gifts then you are absolutely wrong my dear!\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>6. Trust her and Give Her Freedom:</div><br><div>\n</div><div>\n</div><div>Trust is an important factor in any relationship, a relationship is hollow without trust, love is not enough there are other things like trust that bind a relationship, so you need to trust her and her decisions. </div><br><div>If she wants to hang out with her friends don’t stop her, rather encourage her, you will also get some time with your friends.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>7. Don’t Force Her to Do Things:</div><br><div>\n</div><div>\n</div><div>There are certain things which you would like, such as taking your relationship to a next level but don’t force her to do things she is not comfortable with. Understand that, she has certain limitations and morals she can’t break and of course, she has a will of her own.\n</div><div>\n</div><div>\n</div><div>&nbsp;\n</div><div>8. Admit your Mistakes:</div><br><div>\n</div><div>\n</div><div>If you have done something wrong admit it before she hears it from someone else, it can be very disheartening for her if someone else would tell her the truth. And of course, she will start doubting you in future. </div><br><div>Naturally, she would get angry at you, but after knowing your reasons, she will forgive you.\n</div><div>\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>9. Make Her Feel Special:</div><br><div>\n</div><div>\n</div><div>You don’t need to plan big surprises for her, a single rose, a teddy bear would make her happy like never before. And if you really want to plan big, sing a song, write a love letter for her, yes! These are big things.</div><br><div>\n</div><div>\n</div><div>Make her feel wanted in your life, she should feel that she matters to you, take her advice in making big decisions of your life. </div><br><div>A few little things can make your life much more happening.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-5c",
+          "_cid": "qyBYqT0GOD",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
