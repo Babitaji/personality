@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 214,
+    "uniqCompNum": 221,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -3562,7 +3562,62 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page39.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171031-1027x549.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Be More Disciplined to Achieve Your Goals<br>31 Oct , 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page40.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171031-1007x563.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Why Gossiping is a Time Killer and Hindrance to Success<br>31 Oct , 2017&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page41.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171108-1041x573.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Things To Boost Your Metabolism And Have An Active Day<br>8 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page42.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171108-1028x579.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Accepting and Apologizing When You Are Wrong<br>8 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-5y",
+          "_cid": "qAm4wCPmBJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page39.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171031-1027x549.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Be More Disciplined to Achieve Your Goals<br>31 Oct, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page40.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171031-1007x563.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Why Gossiping is a Time Killer and Hindrance to Success<br>31 Oct, 2017&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-5r",
           "_cid": "qzCtWGCXft",
           "_protectedParams": [],
@@ -3617,7 +3672,7 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page38.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171026-1010x562.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">The fear of ghosts, what to know?&nbsp;<br>26 Oct , 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/untitled-784x384.png\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Please Rate Our App On Google<br>26 Oct , 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page38.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171026-1010x562.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">The fear of ghosts, what to know?&nbsp;<br>26 Oct, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/untitled-784x384.png\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Please Rate Our App On Google<br>26 Oct , 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-5n",
           "_cid": "qz8b5RjEEW",
           "_protectedParams": [],
@@ -3906,7 +3961,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -4019,7 +4074,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -4132,7 +4187,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Morning Rituals are Important",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -4245,7 +4300,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "7 Types of People You Need to Be Away",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -4358,7 +4413,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Body Langue",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -4471,7 +4526,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "yourself",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -4584,7 +4639,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Humble",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -4697,7 +4752,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Man Women",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -4810,7 +4865,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Powerful First Impression",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -4923,7 +4978,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Being Positive",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -5036,7 +5091,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Fear",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -5149,7 +5204,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Be More Disciplined to Achieve Your Goals",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -5262,7 +5317,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Gossiping is a Time Killer and a Hindrance to Success ",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -5364,6 +5419,232 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>We as a human being tend to be very social in nature and gossiping as we all know is an integral part of socializing, an icebreaker between two strangers, or a common thread for two enemies of the same person, a way to bond after a fight for two best friends. <br><br>But have you noticed, how much of your precious time you waste on discussing people you don’t even know probably? A bit too much, I guess.<br><br>\n<div>\n</div><div>Don’t you think that if the extra two hours you had, you would be sleeping early, or would have completed your assignment, could have done your laundry? </div><br><div>But what’s the point, the chit-chat is so tempting, and you want all the news right!! But it’s stopping you from reaching your goals, don’t believe me ?? </div><br><div>let me tell you how:</div><br><div>\n</div><div>\n</div><div>1. Gossiping is a Waste of Time</div><br><div>\n</div><div>\n</div><div>Okay, so, many of us think that gossiping is important, it gets us all the news(well most of them are a farce!), and we will cut-off ourselves from the world if we don’t gossip. </div><br><div>The point is we don’t even think that there are newspapers for the so-called news! There are so many other sources but we choose to gossip.</div><br><div>\n</div><div>\n</div><div>What are we doing? Discussing other people’s lives, bitching about someone and what are we getting in return? Nothing!\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>2. It shows our complexes</div><br><div>\n</div><div>\n</div><div>Gossiping or discussing other people’s lives shows what and who are we as a person, we are talking about someone, judging him or her and that someone is not even present to say something in defense, and the biggest problem is most of the time we know nothing about a person except for his name. \n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>3. It Leads to a Fallen Career Graph</div><br><div>\n</div><div>\n</div><div>Have you ever wanted to get up from a discussion after realising that you have a very important work to do but because you found the topic too interesting, you said to yourself that you would go on with your work after this topic for sure, but one topic led to another and you sat there, forgot all about your important work, there was so much you could have done during that time but you chose otherwise.</div><br><div>\n</div><div>\n</div><div>\n</div><div>4. You Miss Out on the More Important News</div><br><div>\n</div><div>\n</div><div>During a chit-chat, we miss out on the other important news related to real world. I mean world news is more important and makes us aware of the current affairs, there are so many other interesting topics to discuss like share market, politics, government policies and their implementation. If we want something to talk, why not something knowledgeable?\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>5. Going Away From The Conversation Doesn’t Help</div><br><div>\n</div><div>\n</div><div>We can’t stop the whole world from gossiping but what we can do is shutting those in front of us, simply staying out from the discussion won’t help, because most of the times that don't happen, we stick there like an earthworm.</div><br><div> \n</div><div>Next time when you hear \"I have a juicy news!” , just stop them right away.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>6. You are not Getting Any Money</div><br><div>\n</div><div>\n</div><div>Have you ever given a thought to the fact that you can talk endlessly, bitch about others, deprive yourself of sleep, even miss out on your meals, because the gossip is more important but nobody is paying you for it, but why? </div><br><div>The time and energy that you gave were worth getting paid for, but sadly you did something you are good at for free!</div><br><div>\n</div><div>\n</div><div>The conversations and the discussions are endless, </div><br><div>sometimes you might want to refresh yourself and do some chit-chatting, it is fine but just remember there should be a limit to anything and at the end, you will be at loss.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>7. We Get Negative about Others</div><br><div>\n</div><div>\n</div><div>The rumours that we hear about others are not always true, in fact more than half of the times they are false, and we only fill ourselves with negativity and form a negative image of people we don’t even know properly, maybe they are not the way they have been represented to us by others.</div><br><div> \n</div><div>And don’t you think that the people who are gossiping about others with us are also going to bitch about us in front of others.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-5x",
           "_cid": "qzCvWJ2WEk",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page41.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Have Active Day",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>5 Things To Boost Your Metabolism And Have An Active Day</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5z",
+          "_cid": "qAm4TIOGhu",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171108-1041x573.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-60",
+          "_cid": "qAm4UaJ8Sy",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Staying healthy while trying to keep to a tight schedule -work, exercise, and social life- can sometimes be an uphill task. <br><br>The first, and probably most important goal, for a healthy body is to have atleast 7 hours of uninterrupted sleep everyday. Much as this may be difficult with the hours you have to put in at work, if one puts his/her mind to it, one eventually gets the hang of it.<br><br>\n<div>\n</div><div>Productivity is affected by body metabolism and boosting it would have a positive effect on the former.</div><br><div>\n</div><div>\n</div><div>There are, however, ways to get the most out of your day using cheat tricks that would be discussed below. </div><br><div>These activities would boost your productivity in all aspects of your life, not just work. Of course, when you think about it, you get more free time!! How? you ask. </div><br><div>Well, with boosted efficiency and effectiveness, you finish your tasks early and are able to rest more.</div><br><div>\n</div><div>\n</div><div>Below are listed 5 easy-to-do tips to boost your metabolism and increase productivity.</div><br><div>\n</div><div>\n</div><div><b>1</b>. Full Glass of Cold Water Everyday:</div><br><div>\n</div><div>\n</div><div>The keyword here is “cold water”. Drinking a glass of cold water has an ample number of health benefits one of which is boosting your metabolism. Drinking a glass full of cold water speeds up your booting process when you just get off the bed. This feeling of activeness would last you through the day.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>2</b>. Lift Things Up:</div><br><div>\n</div><div>\n</div><div>Basically, this is a workout strategy to boost up your metabolism. This is preferably done on an empty stomach and in the morning. </div><br><div>The reason for this is to get the body system all up and working before the first meal is ingested. It would allow for a more efficient use of the food and avoid fat build-up. </div><br><div>However, make sure that you do not go overboard with the weightlifting! This means you should take note of how heavy what you are carrying is and not lift what would cause you pain. The trick is to start small and add more weight as you go on.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>3</b>. One Fruit In The Morning:</div><br><div>\n</div><div>\n</div><div>We all know the proverb “an apple a day keeps the doctor away”. </div><br><div>Much as this is not all you need to do, fruits play a vital role in keeping the body healthy. This is why, growing up, your mom most probably put a fruit with your lunch pack. </div><br><div>Pick your favorite fruit from the shelf, preferably an apple or a banana and make it a habit to eat one every morning.Fruits contain a plethora of vitamins and minerals that help in energizing your body. </div><br><div>It is also advisable to eat a fruit after lunch as well but if this is not possible, stick to the morning fruit rule.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>4</b>. Go Green WithGreen Tea and Oolong Tea:</div><br><div>\n</div><div>\n</div><div>The fat and starch ingested do not only end up as excess fat but also end up making you lethargic; you get tired quicker and become slow as the day progresses. </div><br><div>Drinking a cup of green or oolong tea helps in turning those layers of fats into fatty acids which are easy for the body to make use of and also flush out. The teas would aid you in losing excess weight and help you attain that fit and trim look.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>5</b>. Switch to the Coconut Oil:</div><br><div>\n</div><div>\n</div><div>If, by now, you are not using coconut oil for your cooking, make the switch. </div><br><div> Research has shown that coconut oil contains medium chain fats (the good fat) while the everyday cooking oil is rich in long-chain fats which make you feel drowsy and slow down your metabolism. </div><br><div>Coconut oil has been found to boost the body metabolism by at least 15%, which even beats the benefit got from taking green tea.\n</div><div>\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-61",
+          "_cid": "qAm4Um9mUI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page42.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Accepting and Apologizing When You Are Wrong",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Accepting and Apologizing When You Are Wrong</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-62",
+          "_cid": "qAm5mMOBCe",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171108-1028x579.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-63",
+          "_cid": "qAm5mVE3A0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;As human beings, we are prone to errors. We are imperfect beings and would always make mistakes. <br><br>We all have defining qualities and behaviors which differentiate us from each other and sometimes lead to friction between us. <br><br> Making a mistake is only natural; an inevitable occurrence. What is not inevitable or cannot be predicted is having the courage to accept, admit and apologize for our mistake(s). <br><br>Very few people are able to do all those three things easily and this does not augur well for those who find it hard. <br><br>Let us then find things to do to help us know when we are in the wrong, accept we are and apologize properly. Yes, I said properly. An apology is only worth it if it is sincere.\n<div>&nbsp;\n</div><div><b>1</b>. Find out the Reason of Your Mistake:</div><br><div>\n</div><div>\n</div><div>When we are lashing out in anger, cheating on our partner, lying to our loved ones, we are conscious of what we are doing; we know what we are doing and the consequences. </div><br><div>What we do not really think on, even when we accept we are wrong, is why we did what we did. </div><br><div>Knowing why we made a mistake or wronged someone is a crucial step towards avoiding a re-occurrence of that incident.  Yes, you have to learn to accept your mistakes but you must first think about the reason behind you made it in the first place.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>2</b>.Your Mistakes Do Not Define You:</div><br><div>\n</div><div>\n</div><div>Everyone falls short every once in a while but these few moments of weakness are not their defining attributes. </div><br><div>You are a person with good qualities and hidden talents, and your life or personality will not be judged by your mistakes if they are just one-offs and not repeated. </div><br><div>If this is so, you should never be afraid of admitting them because, in truth, no man grown grew up without making mistakes or stumbling along the way. </div><br><div>You garner respect when you are known as one who does not shy away from taking responsibility for his/her mistake because we all know it takes guts to admit that one is in the wrong. \n</div><div>&nbsp;\n</div><div>&nbsp;\n</div><div><b>3</b>.&nbsp;Realise That You Are In The Wrong:</div><br><div>\n</div><div>\n</div><div>We justify our wrongs even when they are being pointed out to us. We tend to be defensive or become smart-alecks about it, preferring to either justify it or straight out deny we are in the wrong.</div><br><div>Take a moment to think about it. The person pointing out your mistake to you is not a retard. S/he might not be totally right but a point is being made and you would do well to listen and think about it objectively. </div><br><div>Let’s say you smoke a lot and your family says you should quit smoking but instead you justify it by saying  “you smoke because you are stressed or have a lot of pressure!”, but is this right? </div><br><div>Do people not survive stressful situations without smoking? Do you understand that they have a point by asking you to quit? \n</div><div>&nbsp;\n</div><div>\n</div><div><b>4</b>. Empathise with others:</div><br><div>\n</div><div>\n</div><div>If you have wronged someone, or hurt them knowingly or unknowingly, put yourself in their place and think, how would you feel if the same thing is done to you?</div><br><div>\n</div><div>When you understand this and are able to empathize, you would see your wrong clearly and abstain from repeating it.</div><br><div>\n</div><div>\n</div><div>\n</div><div><b>5</b>. Learn from your Mistakes:</div><br><div>\n</div><div>\n</div><div>Making mistakes is a part and parcel of living, and they are for learning purposes only. </div><br><div>Not to be repeated or turned into a lifestyle choice. For instance, if you don’t study well, you would get poor grades. So rather than crying about it, why don’t we improve ourselves!\n</div><div>\n</div><div>&nbsp;\n</div><div><b>6</b>. It is never too late to say sorry:</div><br><div> \n</div><div>\n</div><div>Our ego sometimes comes between us apologizing after realizing a mistake. </div><br><div>It stops us for a myriad of reasons and this should not be so. But, you know what! There is nothing to be ashamed of, nor is there anything to be proud of. </div><br><div>Apologise still even if you feel too much time has passed since the incident. Always try to make things right. We lose many of our close friends because we didn’t say sorry or make things right.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>7</b>. Write it down if you can’t say it:</div><br><div>\n</div><div>\n</div><div>It might sound like an old-school idea but if you think you have made a mistake and you are unable to admit it verbally, write it down. For instance, if you lose a job opportunity, you can write it down, why it happened, and how you feel about it. </div><br><div>If the need to apologise arises, and you find it hard to say it, write a letter. The advantage of this is you are able to give a full apology without the risk of being interrupted. \n</div><div>&nbsp;\n</div><div>&nbsp;\n</div><div><b>8</b>. Don’t Blame Others For Your Mistakes:</div><br><div>\n</div><div>\n</div><div>Blaming others for your mistakes is a cowardly and the worst thing you could do to yourself. </div><br><div>By doing this, you are running away from taking a good look at yourself and correcting your mistakes. If you keep at this, you would never fully grow up</div><br><div> \n</div><div>\n</div><div>\n</div><div><b>9</b>. Let Bygones be Bygones:</div><br><div>\n</div><div>\n</div><div>After all is said and done, there is no point spending an inordinate amount of time thinking on and regretting your mistakes. </div><br><div>Realise, accept, apologize and move on, because the past can’t be changed, and you still have the present and future to live. </div><br><div>The most important part of accepting your mistake is changing or else your apologies would seize to be accepted or have meaning.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-64",
+          "_cid": "qAm5n9dfFO",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
