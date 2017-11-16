@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 230,
+    "uniqCompNum": 237,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -3562,7 +3562,62 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page44.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171111-1041x567.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How to Get Rid of Unwanted Thoughts<br>Nov 14, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/untitled-784x384.png\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Please Rate Our App On Google \n<br>Nov 14, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page45.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171116-1020x566.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How To Make Decisions At Any Point In Life<br>16 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page46.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171116-1027x570.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How to Maintain Your Individuality In A Relationship<br>16 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-6e",
+          "_cid": "qB8Vg83NHA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page44.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171111-1041x567.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How to Get Rid of Unwanted Thoughts<br>Nov 14, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/untitled-784x384.png\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Please Rate Our App On Google \n<br>Nov 14, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-6a",
           "_cid": "qAXjlx2MWD",
           "_protectedParams": [],
@@ -4071,7 +4126,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -4184,7 +4239,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -4297,7 +4352,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Morning Rituals are Important",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -4410,7 +4465,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "7 Types of People You Need to Be Away",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -4523,7 +4578,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Body Langue",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -4636,7 +4691,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "yourself",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -4749,7 +4804,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Humble",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -4862,7 +4917,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Man Women",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -4975,7 +5030,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Powerful First Impression",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -5088,7 +5143,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Being Positive",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -5201,7 +5256,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Fear",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -5314,7 +5369,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Be More Disciplined to Achieve Your Goals",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -5427,7 +5482,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Gossiping is a Time Killer and a Hindrance to Success ",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -5540,7 +5595,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Have Active Day",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -5653,7 +5708,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Accepting and Apologizing When You Are Wrong",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -5766,7 +5821,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "How to Get Out of a Bad Mood",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -5879,7 +5934,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How to Get Rid of Unwanted Thoughts",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -5981,6 +6036,232 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Bad thoughts are the real virus to human minds. <br><br>It keeps on popping up even when we want to forget that. You cannot stop them but you can surely avoid them or get out of them in a very less time. Use these simple tips when you think you have unwanted thoughts arriving.<br><br> \n<div>\n</div><div><b>1</b>. Solve them immediately: </div><br><div>Never give them chance to stay for a long time. If it is caused by any situation or person, talk regarding that and solve it immediately.</div><br><div> \n</div><div>\n</div><div><b>2</b>. Allow the thought to stay: </div><br><div>Let the thing stay. When you try to avoid thinking, the chance of the thought affecting you is more. So better neglect them!</div><br><div> \n</div><div>\n</div><div><b>3</b>. Don’t be alone: </div><br><div>Though loneliness is the best medicine for every problem, when you have unwanted thoughts don’t be alone. Spend time with people. Do something in the team. Your mind will automatically start getting distracted from unwanted things.</div><br><div> \n</div><div>\n</div><div><b>4</b>. Listen to music: </div><br><div>Music has the power to heal any kind of pain. Listen to your favorite genre of music, your mood will get pleasant in some time.</div><br><div> \n</div><div>\n</div><div><b>5</b>. Try something new: </div><br><div>Start learning something you have never tried. It needs all your zeal and interest. Meanwhile, you will forget about what thoughts you had before. \n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-6d",
           "_cid": "qAXjRdmSIB",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page45.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "How To Make Decisions At Any Point In Life",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>How To Make Decisions At Any Point In Life</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-6f",
+          "_cid": "qB8WqgoadA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171116-1020x566.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-6g",
+          "_cid": "qB8Wqu1Gtm",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Do you feel a sense of pressure when you have to make decisions? <br><br>Even deciding the menu or a holiday destination seems like a task? Well, you are not alone. There are many of us who find it difficult to make decisions. <br><br>Why not try to be an expert at decision making<br><br>\n<div>\n</div><div><b>1</b>. Don’t be afraid of Taking Risks:</div><br><div>\n</div><div>\n</div><div>The fear of the consequence or the outcome of a decision hinders us from being decisive. </div><br><div>This should not be so as most outcomes are not in our hands. Many times, we miss out on big opportunities because we are not willing to take a risk. So, get out of your comfort zone, you will be happy you did.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>2</b>. Analyse the pros and cons:</div><br><div>\n</div><div>\n</div><div>Even though the outcome of our decisions is not in our hands, we can edge our chances. This is by trying to make the best decision possible after weighing the pros and cons of each probable decision. </div><br><div>We should take the emotional, social and economic aspects of every decision into account before making our minds up.</div><br><div>\n</div><div>\n</div><div>Suppose you get a job offer in a firm that is far from where you live, you will have to consider your financial state, the financial benefit of taking the job, and even safety is taking the job means getting back home very late at night.\n</div><div>\n</div><div>\n</div><div>&nbsp;\n</div><div><b>3</b>. Some decisions have to be spontaneous:</div><br><div>\n</div><div>\n</div><div>There are certain decisions, like buying a dress, deciding what to eat and where to eat, which can be spontaneous. </div><br><div>These decisions are so because they usually are tied to our mood and have no lasting overall effect on our lives.</div><br><div>\n</div><div>\n</div><div>Sometimes, this can apply to big decisions but not always as big decisions have to be thought through.\n</div><div>\n</div><div>\n</div><div>&nbsp;\n</div><div><b>4</b>. Do not overthink:</div><br><div>\n</div><div>\n</div><div>Overthinking is the root cause of almost every problem. Anything which keeps revolving in our mind actually hampers our decision-making capability. </div><br><div>Why? Because we are incapable to deciding on which decision is the best because we are imaging multiple scenarios, some of which are not even possible. In other cases, we equate the situation to our past. Causing us to be afraid to take that step forward.\n</div><div>&nbsp;\n</div><div>\n</div><div>&nbsp;\n</div><div><b>5</b>. When in a dilemma, go with your intuition:</div><br><div>\n</div><div>\n</div><div>When you have to decide what your mind says and what your heart says, always go with the heart. This is because, at a subliminal level, we usually know what to do, It is this knowledge that forms the basis of our intuition. </div><br><div>In my personal experience, our intuitions are usually correct most of the times. So if you are having a negative feeling about something, step back.\n</div><div>\n</div><div>\n</div><div>&nbsp;\n</div><div><b>6</b>. You cannot always make the right decision:</div><br><div>\n</div><div>\n</div><div>It is not possible to always make the right decision, no matter how much you want it or think on it. This is because no one is capable of having all the facts at hand nor can we see into the future to see the real consequences of our decision.</div><br><div>\n</div><div>\n</div><div>There are certain decisions in life you want it to be perfect, just the way you imagined, but life is not like this. Sometimes you succeed, sometimes you fail and you will have to take both in stride.</div><br><div>\n</div><div>\n</div><div>There is a saying:  “If things happen according to your will, it's good. But if things do not happen according to your will, then it's even better. </div><br><div>Because then things will happen according to God's will and God will always want your good.”\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>7</b>. Give the ear to all but tongue to none:</div><br><div>\n</div><div>\n</div><div>Listen to everyone, take suggestions, but stop if you feel the suggestions are beginning to confuse you more. </div><br><div>The essence of asking for outside opinion is to aid your decision-making, it is, therefore, counter-productive of the opinions confuse you instead.</div><br><div>  \n</div><div>\n</div><div>This is why the final decision must be yours; do not outsource the responsibility nor allow anyone influence you negatively.</div><br><div>\n</div><div>\n</div><div>For example, when you a buy a dress you like, there are those who would praise your decision and say how beautiful the dress is. </div><br><div>There are those who would question why you bought such a dress. These negative reviews do not mean you should decide to return the dress. The decision is yours and yours alone.</div><br><div>\n</div><div>\n</div><div>\n</div><div>We are humans, and we make many decisions in our life, even if the decision turns out to be bad and lands you into trouble, it doesn’t mean that you stop taking them, never be afraid of taking risks, at least you won’t have regrets in your deathbed, because life is all but uncertain, none of us know where we are going to be in the next moment.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-6h",
+          "_cid": "qB8WqHMK3t",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page46.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "How to Maintain Your Individuality In A Relationship",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>How to Maintain Your Individuality In A Relationship</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-6i",
+          "_cid": "qB8WCBLwpN",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171116-1027x570.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-6j",
+          "_cid": "qB8WCNAGkD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Being in a relationship is a beautiful thing. Being in love and loved back is a wonderful feeling. <br><br>You have that one person you tell yourself you would go the extra mile for; catch a grenade for, so to speak. <br><br>As the relationship progresses, this person might chip away slowly at your personality to the point you forget who you were before the relationship started.<br><br> So how to maintain your individuality while you are in a relationship:\n<div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>1</b>. Don’t break contact with your old friends:</div><br><div>\n</div><div>\n</div><div>In the beginning of any relationship, you get so lost in each other that you forget that there is a life outside of you both. </div><br><div>You stop keeping in touch with your old friends to the point that you become strangers or even lose contact totally. </div><br><div>This is a mistake because you are denying yourself who to turn to if the person you are in love with hurts you. </div><br><div>One day, you are going to need somebody with whom you can talk your heart out to and there would be no one available.</div><br><div>\n</div><div>\n</div><div>Although it might not look like it, your real friends are always a call away, you just have to initiate contact.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>2</b>. Take time out for yourself:</div><br><div>\n</div><div>\n</div><div>Have some “Me Time”. Do not forget that you were born as an individual entity. </div><br><div>So, always take time out for yourself and do those things that you used to do before you made the commitment. </div><br><div>You had things you did for fun and skills that you probably have stopped using, pick them up and keep doing them. If you are the type to take walks alone or cherish a bit of alone time, do not sacrifice it on the altar of love.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>3</b>. Remain independent:</div><br><div>\n</div><div>\n</div><div>This is very important. You have to do this for yourself. Never sacrifice your career goals because of the other person. </div><br><div>Don’t be afraid of chasing your dreams. You are as entitled to fulfilling your dreams as your significant other. </div><br><div>This is because there is a chance you would regret not chasing those dreams down when you think on it in later years. Especially if the person you made the sacrifice for betrayed your trust or the relationship.</div><br><div>\n</div><div>\n</div><div>Being independent is not just about your career but every part of your life. Do not settle.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>4</b>. Self-respect is important:</div><br><div>\n</div><div>\n</div><div>When in a relationship, do not force yourself to do things you are not comfortable doing or which attack your basic personality. </div><br><div>This is because, over time, you will get used to doing these things you would rather not to until you lose yourself in the process. </div><br><div>And when you realise this has happened, you begin to ask yourself why you let yourself go.</div><br><div> It is your life and the person who should be making the important decisions about it is you. The final decisions about life matters must be made by you. </div><br><div>Do not, for the sake of pleasing your partner, hand over the decision-making task. Be involved, have your say and let it be mutual.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>5</b>. Over-commitment is the ultimate enemy:</div><br><div>\n</div><div>\n</div><div>Yes, you are very much in love but making big promises at the beginning can lead to problems later. </div><br><div>You might have to do over and beyond yourself to keep those promises you made. This is why people are advised not to make promises and decisions when they are very happy, sad or angry.</div><br><div>\n</div><div>\n</div><div>Of course, some people come into our lives and show us how to be better versions of ourselves. </div><br><div>But they do not force this change on others. They are patient and usually lead by example. Be particular about the type of change you want.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>6</b>. Giving and taking space:</div><br><div>\n</div><div>\n</div><div>A relationship binds two people together and obviously, people who love each other have a say in each other’s lives as well but sometimes the relationship can create a feeling of being strangled.</div><br><div>\n</div><div>\n</div><div>Giving space doesn’t mean separation but there are things that you should keep to yourself. Things that are personal. Like your log-in password. </div><br><div>And your better half is not entitled to informationabout conversations you had with friends, especially ones where you were entrusted with secrets.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>7</b>. Plan trips with non-mutual friends:</div><br><div>\n</div><div>\n</div><div>Go out for a dinner with friends who are not common for both of you, this way your friends will never complain about not seeing you and you will feel rejuvenated. </div><br><div>It will turn out to be the ultimate fun time for you, you don’t have to care about what the friends will say to your partner about you, and you would be free to talk about everything and anything.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div><b>8</b>. Speak your heart out:</div><br><div>\n</div><div>\n</div><div>This is a common mistake that we all make in a relationship. We tend to not say the things we want to or really feel because we do not want to hurt them. </div><br><div>Because we want to keep the peace; we do not want to rock the boat.</div><br><div>  \n</div><div>\n</div><div>It is okay to tell them where they are wrong right from the start. They will get used to it and can actually try to improve and you also get to say what you need to.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-6k",
+          "_cid": "qB8WCXMm46",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
