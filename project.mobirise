@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 261,
+    "uniqCompNum": 267,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -3562,7 +3562,62 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page51.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171123-1033x560.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Things To Know When Appearing For A Job Interview<br>23 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page52.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171123-1033x575.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Good Habits for Better Sleep<br>23 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page53.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171123-1034x576.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">How to Reduce the Addiction towards Social Media?<br>24 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"https://play.google.com/store/apps/details?id=com.personality_development&hl=en\"><img src=\"@PROJECT_PATH@/assets/images/untitled-784x384.png\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Please Rate Our App On Google<br>24 Nov, 2017&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-7b",
+          "_cid": "qBSfIlUfIk",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page51.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171123-1033x560.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Things To Know When Appearing For A Job Interview<br>23 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page52.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171123-1033x575.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Good Habits for Better Sleep<br>23 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-72",
           "_cid": "qBMFNrZxCn",
           "_protectedParams": [],
@@ -4291,7 +4346,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -4404,7 +4459,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -4517,7 +4572,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Morning Rituals are Important",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -4630,7 +4685,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "7 Types of People You Need to Be Away",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -4743,7 +4798,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Body Langue",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -4856,7 +4911,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "yourself",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -4969,7 +5024,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Humble",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -5082,7 +5137,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Man Women",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5195,7 +5250,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Powerful First Impression",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5308,7 +5363,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Being Positive",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5421,7 +5476,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Fear",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -5534,7 +5589,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Be More Disciplined to Achieve Your Goals",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -5647,7 +5702,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Gossiping is a Time Killer and a Hindrance to Success ",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -5760,7 +5815,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Have Active Day",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -5873,7 +5928,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Accepting and Apologizing When You Are Wrong",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -5986,7 +6041,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "How to Get Out of a Bad Mood",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -6099,7 +6154,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How to Get Rid of Unwanted Thoughts",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -6212,7 +6267,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Decisions At Any Point In Life",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -6325,7 +6380,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "How to Maintain Your Individuality In A Relationship",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -6438,7 +6493,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "5 Must-have Qualities Of A Powerful Leader",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6551,7 +6606,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Read Fear Of Rejction",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -6664,7 +6719,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "How to Be More Thankful",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -6777,7 +6832,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "The Art of Public Speaking",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -6890,7 +6945,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Things One Should Know When Appearing For A Job Interview",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -7003,7 +7058,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Good Habits for Better Sleep",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -7105,6 +7160,119 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;“Sleep is the best meditation”- Dalai Lama<br><br>\n<div>\n</div><div>Life is all about working your way to the top. </div><br><div>Hard work, intelligence, unbreakable faith, and sweat are all that is required to reach the zenith of your career. But is it enough? How will you achieve success if you have not rested properly? </div><br><div>When the brain does not get much REM sleep, the neurons stop responding and that makes us dull and dreary. Here are a few tips on how to sleep better with the help of a few routine habits.</div><br><div>\n</div><div>\n</div><div>1. Create a sleep cycle:</div><br><div>\n</div><div>\n</div><div>Your body is like a clock which needs to be put into a pattern. Once you make yourself fall asleep at a certain time forcefully, after a couple of days, you will automatically feel sleepy at that time. </div><br><div>When you wake yourself up forcefully at 7 am, after a week, you will find yourself awake at 7 am involuntary. This way you will know that your body has established the cycle and has fallen into the schedule.</div><br><div>\n</div><div>\n</div><div>\n</div><div>2. Exercise in the morning:</div><br><div>\n</div><div>\n</div><div>Exercising will help you activate your mind and body at the same time. It will keep you energized all day and when you finally hit the pillow, you will fall asleep immediately in no time.<span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Practicing light yoga before bedtime will enhance your sleeping habits.</span></div><br><div>\n</div><div>\n</div><div>\n</div><div>3. Avoid using phone or laptop before bedtime:</div><br><div>\n</div><div>\n</div><div>There are various things you can do instead of scrolling through your phone checking emails or messages.</div><br><div> </div><div>Y<span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">ou can read books, have a conversation with your loved ones, or develop a hobby. The light that comes from the screens causes our eyes to develop irritation and creates troubles when we are trying to sleep by creating ghost images once our eyes are shut.</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span></div><div>\n</div><div>\n</div><div>4. Improve the environment where you sleep:</div><br><div>\n</div><div>\n</div><div>Sleeping in a peaceful calm and quiet place is an absolute necessity. </div><br><div>And making it a habit to sleep in a quiet environment will definitely help you in regulating your sleeping patterns. </div><br><div>You will find that a little difference in your sleeping environment will make a lot of difference in the quality of your sleep.\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-78",
           "_cid": "qBMIxmPWqV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page53.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "How to Reduce the Addiction towards Social Media?",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>How to Reduce the Addiction towards Social Media?</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-7c",
+          "_cid": "qBSMfgYCJR",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171123-1034x576.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-7d",
+          "_cid": "qBSMftqHSA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>There are some times when we do not know when we are addicted to something.<br><br>The addiction is so aggravating that without that item, it will be impossible to function the entire day. Social media, now, plays an important part in our lives. <br><br>We often tend to get curious about what is going on in other's lives that make the platforms of Facebook, Twitter and Instagram so popular. <br><br>The need to upload a picture has become so imminent that people need the correct light and background to take pictures of their food first before eating it.<br><br>\n<div>\n</div><div>Some are weirdly obsessed with selfies. The past 3 years have seen the grossest form of deaths that have happened while the person was on a selfies chase. </div><br><div>The madness has crossed its entire limit when I saw a man putting up a story on Instagram about how his soap is so slippery and he wishes he could change it. </div><br><div>Please make sure you do not end up at his level of psychosis. Here is how you can lower the addiction to social media to a considerable extent.</div><br><div> \n</div><div>\n</div><div>1. Schedule your entertainment time. Create a routine as to what you ought to do all day and make sure you stick to it.</div><br><div>\n</div><div>\n</div><div>2. End the curiosity. Scrolling for hours and going through the news feed will never bring any actual positivity in your life. It is better to spend that time doing meditation and making your mind calm and enriched with positivity.</div><br><div> \n</div><div>\n</div><div>3. Follow your own routine and keep yourself busy. Start your day with morning yoga and end it by cuddling in bed with a good book. Work very hard all day because you sleep only when you die. Make use of the time you have and benefit yourself by working hard to improve yourself.</div><br><div> \n</div><div>\n</div><div>4. You do not need external approval to know that things are right in your life. The hollow Likes in Facebook are not the only appreciation you need.</div><br><div> \n</div><div>\n</div><div>5. Try to keep away from all devices for at least 4 to five hours a day.</div><br><div> \n</div><div>\n</div><div>6. You do not need the digital affirmation that you are unique.</div><br><div> \n</div><div>\n</div><div>Once you try to follow these above rules, you will see that you are no longer driven by all the peer pressure. </div><br><div>Most of the people are not genuine when they post images or status over the Internet. </div><br><div>For example, when you come across a pretty girl with a morning selfie with #WokeUpLikeThis tag, there is no reason to believe that she actually woke up like that. She may have spent an hour in the bathroom trying to fix her hair.</div><br><div> \n</div><div>\n</div><div>Some of the worst effects of social media are watching your friends becomes more successful than you. </div><br><div>Some will get a better job, a better car, or a better-looking house on the beach. However, the trick is not to get overpowered with jealousy. </div><br><div>Although it creates a mental exertion that makes all your achievements appear puny, but know that you are in a much better position than him because you do not choose to show off on the social media platforms.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-7e",
+          "_cid": "qBSMfGxUz3",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
