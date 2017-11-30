@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 281,
+    "uniqCompNum": 288,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 56
+        "order": 58
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 55
+        "order": 57
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 54
+        "order": 56
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 53
+        "order": 55
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 52
+        "order": 54
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 51
+        "order": 53
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 50
+        "order": 52
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 49
+        "order": 51
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 48
+        "order": 50
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 47
+        "order": 49
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 46
+        "order": 48
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 45
+        "order": 47
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 44
+        "order": 46
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -3562,7 +3562,62 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page56.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171128-1051x577.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Taking Advantage Of Your Daydreaming<br>28 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page57.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171126-1043x570.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Overcoming Shyness with the Opposite Sex<br>28 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page58.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171130-1028x571.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">7 Tips to Be Your Own Boss<br>30 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page59.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171130-1031x571.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Ways To Achieve Better Work-Life Balance<br>30 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-7t",
+          "_cid": "qCrGwy3noe",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page56.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171128-1051x577.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Taking Advantage Of Your Daydreaming<br>28 Nov, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page57.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171126-1043x570.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Overcoming Shyness with the Opposite Sex<br>28 Nov, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-7m",
           "_cid": "qCgAFrQHx8",
           "_protectedParams": [],
@@ -4456,7 +4511,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -4569,7 +4624,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -4682,7 +4737,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Morning Rituals are Important",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -4795,7 +4850,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "7 Types of People You Need to Be Away",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -4908,7 +4963,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Body Langue",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -5021,7 +5076,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "yourself",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -5134,7 +5189,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Humble",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -5247,7 +5302,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Man Women",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -5360,7 +5415,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Powerful First Impression",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -5473,7 +5528,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Being Positive",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -5586,7 +5641,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Fear",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -5699,7 +5754,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Be More Disciplined to Achieve Your Goals",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -5812,7 +5867,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Gossiping is a Time Killer and a Hindrance to Success ",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -5925,7 +5980,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Have Active Day",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -6038,7 +6093,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Accepting and Apologizing When You Are Wrong",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -6151,7 +6206,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "How to Get Out of a Bad Mood",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -6264,7 +6319,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How to Get Rid of Unwanted Thoughts",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -6377,7 +6432,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Decisions At Any Point In Life",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -6490,7 +6545,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "How to Maintain Your Individuality In A Relationship",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -6603,7 +6658,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "5 Must-have Qualities Of A Powerful Leader",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -6716,7 +6771,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Read Fear Of Rejction",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -6829,7 +6884,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "How to Be More Thankful",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -6942,7 +6997,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "The Art of Public Speaking",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -7055,7 +7110,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Things One Should Know When Appearing For A Job Interview",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -7168,7 +7223,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Good Habits for Better Sleep",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -7281,7 +7336,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "How to Reduce the Addiction towards Social Media?",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -7394,7 +7449,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Get Rid Of Mobile Phone Addiction",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -7507,7 +7562,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "How To Convince People With Words",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -7620,7 +7675,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Taking Advantage Of Your Daydreaming",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -7733,7 +7788,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Overcoming Shyness with the Opposite Sex",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -7835,6 +7890,232 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Retain your shyness and drop your shame- Sri Sri Ravishankar, Art of Living<br><br>\n<div>\n</div><div>Being shy can be beneficial if you know how to tackle it well. Shyness generally develops from the feeling of insecurity. </div><br><div>It could be concerned about how people will judge you. It can particularly ruin your chances with the opposite gender because they may mistakenly assume your silence to be self-centeredness. </div><br><div>You must be approachable to be liked and for that, overcoming your shyness is essential. Other people may find your shyness endearing if you display it in a moderate amount without being awkward.</div><br><div>\n</div><div>\n</div><div>Here is what you can do to overcome shyness with the opposite sex:</div><br><div>\n</div><div>\n</div><div>1) Define what you want to be:</div><br><div> \n</div><div>\n</div><div>You will have to define how you wish people to perceive you. You can pose as either a wallflower or a charming person. Follow through the act then. If you wish to be charming, start acting like it.</div><br><div>\n</div><div>\n</div><div>2) Do not be too critical of yourself:</div><br><div> \n</div><div>\n</div><div>Do not judge yourself harshly. Nobody, not even God can please all. You are merely a human being and you are allowed to make a faux pas. Let it go. Retain what truly defines you without thinking about how you will be judged.</div><br><div>\n</div><div>\n</div><div>3) Be confident while striking a conversation:</div><br><div> \n</div><div>\n</div><div>If you have already dared to start a conversation with the opposite sex then go with it no matter what. </div><br><div>Take it as an opportunity to experience how well you can perform. Exude confidence. The other person doesn’t need to know how shy you are. And you can also admit that you are anxious. Both can work for you.</div><br><div>\n</div><div>\n</div><div>4) Find something of common interest:</div><br><div> \n</div><div>\n</div><div>When you have something in common, the conversation flows easily and naturally. You can make such a conversation stimulating with your passion for a common subject.</div><br><div>\n</div><div>\n</div><div>5) Observe and imitate:</div><br><div> \n</div><div>\n</div><div>When you are unsure of how to talk to the other person, observe his/her stance and style of talking. If you imitate the same, the other person will get the signal that you are interested in talking to him/her. It will also raise your confidence.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-7s",
           "_cid": "qCgGWRJGb5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page58.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "7 Tips to Be Your Own Boss",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>7 Tips to Be Your Own Boss</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-7u",
+          "_cid": "qCrGEmFmPI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171130-1028x571.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-7v",
+          "_cid": "qCrGEwvJwD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>A handful of perks are associated with being your own boss that all seem quite obvious. But, what remains behind the sheets is the struggle engrossed in your mind when you decide to be your own boss. <br><br>From the very beginning (since our birth), we tend to remain in our shells and follow the orders given to us by different sets of people. To start with, we abide by the rules of our parents, our teachers, and finally of our own mind!<br><br> \n<div>\n</div><div>Now, you need to decide who the boss is and who is controlling whom? To control our mind and to get out of what is known as the “mind slavery,” we need to introduce two of the most important elements of our routine lives – discipline and patience. </div><br><div>Once you dig deeper to these two attributes, you will know how to master your mind. </div><br><div>Here are what these 7 tips to be your own boss are:</div><br><div>\n</div><div>\n</div><div>1. Stay True to Yourself</div><br><div>\n</div><div>\n</div><div>They say a harsh truth is better than a comforting lie. If life offers you failure, accept it with your chin up. </div><br><div>Never cover up your failure with an excuse. Deep down, you know it well yourself and by sugar coating everything you are just making yourself weak and vulnerable. If you fail, it is okay! Now you will have something to learn from it.</div><br><div>\n</div><div>\n</div><div>2. Start Saving:</div><br><div>\n</div><div>\n</div><div>Once in your life, you will get to know the importance of money. According to one of the great financers, you should start saving money from your early 20s so as to create a financial stability in your life. </div><br><div>Savings will also help you back up your future troubles and you will be able to concentrate on bigger things in your life. Be it even a little saving, but saving is actually quite important.</div><br><div>\n</div><div>\n</div><div>3. Be Your Own Support System</div><div><br></div><div>\n</div><div>Life becomes simpler when you stop relying on others. Besides, why do you need anyone else to give you a shoulder when all you can do is console all day long? Being your own boss simply means to pick yourself up as soon as you fall down. </div><br><div>For that, you would need to indulge in self-knowing for a long time. The best idea would be to be the person you are finding in someone else.</div><br><div>\n</div><div>\n</div><div>4. Never Stick To Your Own Comfort Zone</div><br><div>\n</div><div>\n</div><div>Famous people describe a comfort zone as a slow poison, which is quite true if you deeply think about it. </div><br><div>You can never fly high if you choose to keep yourself within the restrictive boundaries of a particular zone. The world offers a truckload of things to learn, understand and experience for which time is a limited quantity. Use it wisely and grow out of your comfort zone every now and then.</div><br><div> \n</div><div>\n</div><div>5.  Don’t Be Needy</div><br><div>\n</div><div>\n</div><div>Being needy is when you are relying on other people to accept you, your jokes and your personality, to be precise. Be yourself, in your own way and never be sorry for it. </div><br><div>Remember, the only person you need approval from before doing anything is your own conscious. Thinking about other’s reactions is a big dumpster which only sucks one in.</div><br><div> \n</div><div>\n</div><div>6. Set Up Goals Regularly</div><div><br></div><div>\n</div><div>If you have ever thought that you need to do your hard work only till a certain time comes and you can just chill afterwards, then you are living in a false hope. </div><br><div>Make your hard work a fun thing from which you never want to take a break and keep setting new goals! Achieving pre-set goals is one of the most satisfying things in this world.</div><br><div>\n</div><div>\n</div><div>7.    Health is Important</div><br><div>\n</div><div>\n</div><div>People usually deny giving time to their health, which they soon regret later. The first and foremost concern should be health, without a doubt. Indulge in a fully-fledged exercise routine and be regular in it. </div><br><div>If you choose to do for your body right now, your body will do for you in the future.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-7w",
+          "_cid": "qCrGEO4DUs",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page59.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "Ways To Achieve Better Work-Life Balance",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Ways To Achieve Better Work-Life Balance</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-7x",
+          "_cid": "qCrGYiC6Gw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171130-1031x571.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-7y",
+          "_cid": "qCrGYqeniT",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;It is really hard to accept the fact no profession in today’s time is free of stress or pressure, even though as a social animal, it is our duty to maintain the odds. <br><br>We work longer hours, don’t get rest even on the weekends, and bring our work home. We keep working even while traveling and the vicious cycle goes on and on. <br><br>And with advancing technologies like smartphones and cheap Internet services, our workplace is just a click away, always connected either through cell phones or through our laptops. <br><br>Actually, this is not our fault, we have been made to believe that it is the cost of achievement, but this shouldn’t be the case.<br><br>\n<div>Say goodbye to this habit of checking your phone or messages every now and then, and make sure you take some time out for your near and dear ones.</div><br><div>\n</div><div>\n</div><div>\n</div><div>1. Get enough Rest:</div><br><div> \n</div><div>\n</div><div>It may sound basic, but many of us don’t maintain a routine where we get enough sleep. Studies show that, when you are restless, you don’t work efficiently and waste your time and energy doing the less important things or doing the same thing repeatedly. This way you are doing harder work and not smarter work.</div><br><div> \n</div><div>\n</div><div>2. Take advantage of productivity supporters:</div><br><div> \n</div><div>\n</div><div>Someone who can manage his personal and professional life skillfully is usually the one who manages to get his work done by others. 'Effective promoters' motivate and prepare you to expand your productivity exponentially. </div><br><div>The catch is to work efficiently in the right direction in a smart way. This way we can manage to do a lot of work in a very small amount of time. And by being a good motivator, you can always get help in the times  you need it.</div><br><div>\n</div><div>\n</div><div>3. Apply better approaches for doing old things:</div><br><div>\n</div><div>\n</div><div>You can do old things in a new way, like, you can hold a family gathering and then can go for a walk or organize a cycle ride, swimming or a running contest within the family itself. </div><br><div>This way you will also get to spend time with family members, along with doing something that boosts your energy level and rejuvenates you.</div><br><div>\n</div><div>\n</div><div>&nbsp;4. Reform your schedule:</div><br><div>\n</div><div>\n</div><div>Rather than watching your tight schedule, and cribbing over it, try and manage the work smartly and more effectively. </div><br><div>There has to be a time limit for doing every task that you have assigned in your list for that day, which means, you won’t give unnecessary or extra time for that particular task. </div><br><div>When you are done with the assignments, use the extra time for something that interests you.</div><br><div> \n</div><div>\n</div><div>5. Dodge time and time wasters</div><div><br></div><div>\n</div><div>There are a few people and some daily tasks which fall into the category of time killers. They occupy your mind, make you lose your energy and weaken your core interest. </div><br><div>The good part is, they are easily recognizable, but the sad part is, it can be a little difficult to keep away from them. For example, sliding down the newsfeed of your Facebook timeline is a time killer. </div><br><div>You keep scrolling down in the hopes of finding something interesting. The key point is to keep reminding yourself of your ultimate goal and work according to your priorities.</div><br><div>\n</div><div>\n</div><div>6. Refrain from the tendency of checking emails and messages too much:</div><br><div>\n</div><div>\n</div><div>Try not to be a slave to your messages. It seems like it has become our daily ritual to check the messages and emails, just before we go to bed and the first thing after we wake up. </div><br><div>So, what happens is we get interested in responding to the emails or unnecessary messages, and this eats up almost an hour of our daily sleep and half an hour in the morning. </div><br><div>In turn, we get irritated due to lack of sleep, skip our breakfast in the morning so we don’t end up late and ultimately can’t give our hundred percent to our job or school, etc.</div><br><div>\n</div><div>\n</div><div>7. Cut out unnecessary gatherings:</div><br><div> \n</div><div>\n</div><div>It’s a common thinking among people that if you want to be successful or achieve something early in your career, you need to make contacts. </div><br><div>For that you need to attend more and more  social gatherings, business meetings and all of these, but have you realized that most of these events are pretty useless? It’s the same people, same discussion! Give yourself a break, if you think it will be beneficial attend otherwise you can utilize this time in doing something in your area of interest or by indulging in adventure sports or such. </div><br><div>By any chance, if you get to organize a gathering, you can also invite the family members of the employees.</div><br><div> \n</div><div>\n</div><div>8. Try not to escape the truth</div><br><div> \n</div><div>\n</div><div>There are situations where you will have to make tough decisions. Try to be reasonable and decide only after you have analyzed every aspect of the mess that has been created.</div><br><div>\n</div><div>\n</div><div>9. Get your outlook right</div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Just like most of the things, the chances are you will achieve the things you need easily with the correct outlook or perspective. </span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Re-program yourself so that you start thinking of accomplishing a balance in your life. Be grateful for all the things that went well in a day and build up your self-esteem from the things other than your work.</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span><br></div><div>\n</div><div>10. Strategies for when the street gets unpleasant</div><br><div> \n</div><div>\n</div><div>Our life cannot be a bed of roses always. We all will still have to face the extreme circumstances in our lives, but coming out of them requires having a correct state of mind. </div><br><div>Each setback is another chance to get a hold of something. Keep in mind, that it is you who can do something for yourself rather than, someone else stepping into your shoes and helping you out to maintain the pressure at work along with those on personal levels. </div><br><div>There are certain stages in life, where people do need counseling, as it becomes hard to manage the work-life balance. </div><br><div>Follow the above-mentioned tips and I am sure you will be able to take some time out for yourself any day without feeling any pressure.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-7z",
+          "_cid": "qCrGYNktx5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
