@@ -34,8 +34,8 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.2.2",
-    "uniqCompNum": 299,
-    "versionPublish": "4.2.2",
+    "uniqCompNum": 307,
+    "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -683,7 +683,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "How To Archive Goals",
-        "order": 60
+        "order": 62
       },
       "components": [
         {
@@ -796,7 +796,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Be Charismatic",
-        "order": 59
+        "order": 61
       },
       "components": [
         {
@@ -909,7 +909,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "How To Become Smarter",
-        "order": 58
+        "order": 60
       },
       "components": [
         {
@@ -1022,7 +1022,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Calm Down",
-        "order": 57
+        "order": 59
       },
       "components": [
         {
@@ -1135,7 +1135,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Learn To Love Your Self",
-        "order": 56
+        "order": 58
       },
       "components": [
         {
@@ -1248,7 +1248,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "How To Overcome Fear",
-        "order": 55
+        "order": 57
       },
       "components": [
         {
@@ -1361,7 +1361,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How To Bring Peple Around You",
-        "order": 54
+        "order": 56
       },
       "components": [
         {
@@ -1474,7 +1474,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "How To Develop Your Personality",
-        "order": 53
+        "order": 55
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Make People Like You",
-        "order": 52
+        "order": 54
       },
       "components": [
         {
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "How To Make People Think in Your Way",
-        "order": 51
+        "order": 53
       },
       "components": [
         {
@@ -1813,7 +1813,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "how to overcome - happy - strong",
-        "order": 50
+        "order": 52
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "major required develop personality",
-        "order": 49
+        "order": 51
       },
       "components": [
         {
@@ -2039,7 +2039,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "self improved ideas",
-        "order": 48
+        "order": 50
       },
       "components": [
         {
@@ -2152,7 +2152,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "some common tips develop personality",
-        "order": 47
+        "order": 49
       },
       "components": [
         {
@@ -2265,7 +2265,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "tips for being your self",
-        "order": 46
+        "order": 48
       },
       "components": [
         {
@@ -2378,7 +2378,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "way how to not argue",
-        "order": 45
+        "order": 47
       },
       "components": [
         {
@@ -2491,7 +2491,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "calm down your nervs",
-        "order": 44
+        "order": 46
       },
       "components": [
         {
@@ -2604,7 +2604,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "how to increase concentration",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -2717,7 +2717,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ways to overcome public speaking nxiety",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -2830,7 +2830,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Personality Test",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -2915,7 +2915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type d",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -3029,7 +3029,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "type c",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -3143,7 +3143,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "type b",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -3257,7 +3257,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "type a",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -3393,7 +3393,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "TYPE - B",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -3562,7 +3562,62 @@
             }
           },
           "_name": "content13",
-          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page60.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171201-1050x570.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">5 Major Problems And How To Deal With Them<br>2 Dec, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page61.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171201-1051x579.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">What does your Handshake tell about you?<br>2 Dec, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page63.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171204-123601-1051x579.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">A Few Tips to Avoid Hesitation or Uneasiness<br>4 Dec, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page62.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171204-123426-1041x566.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">A Feedback - Bane or Boon?<br>4 Dec, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "content13-8c",
+          "_cid": "qCOSh5lesq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              ".img-item": {
+                "display": "flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "img": {
+                  "width": "100%"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content13",
+          "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"105\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page60.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171201-1050x570.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">5 Major Problems And How To Deal With Them<br>2 Dec, 2017</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page61.html\"><img src=\"@PROJECT_PATH@/assets/images/img-20171201-1051x579.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">What does your Handshake tell about you?<br>2 Dec, 2017</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "content13-80",
           "_cid": "qCwMiHWblP",
           "_protectedParams": [],
@@ -4566,7 +4621,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stop Your Self",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -4679,7 +4734,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "How To Build Confedence",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -4792,7 +4847,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Morning Rituals are Important",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -4905,7 +4960,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "7 Types of People You Need to Be Away",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -5018,7 +5073,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Body Langue",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -5131,7 +5186,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "yourself",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -5244,7 +5299,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Humble",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -5357,7 +5412,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Man Women",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -5470,7 +5525,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Powerful First Impression",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -5583,7 +5638,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Being Positive",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -5696,7 +5751,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Fear",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -5809,7 +5864,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Be More Disciplined to Achieve Your Goals",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -5922,7 +5977,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why Gossiping is a Time Killer and a Hindrance to Success ",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -6035,7 +6090,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Have Active Day",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -6148,7 +6203,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Accepting and Apologizing When You Are Wrong",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -6261,7 +6316,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "How to Get Out of a Bad Mood",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -6374,7 +6429,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "How to Get Rid of Unwanted Thoughts",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -6487,7 +6542,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Make Decisions At Any Point In Life",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -6600,7 +6655,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "How to Maintain Your Individuality In A Relationship",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -6713,7 +6768,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "5 Must-have Qualities Of A Powerful Leader",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -6826,7 +6881,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "How To Read Fear Of Rejction",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -6939,7 +6994,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "How to Be More Thankful",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -7052,7 +7107,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "The Art of Public Speaking",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -7165,7 +7220,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Things One Should Know When Appearing For A Job Interview",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -7278,7 +7333,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Good Habits for Better Sleep",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -7391,7 +7446,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "How to Reduce the Addiction towards Social Media?",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -7504,7 +7559,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How To Get Rid Of Mobile Phone Addiction",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -7617,7 +7672,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "How To Convince People With Words",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -7730,7 +7785,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Taking Advantage Of Your Daydreaming",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -7843,7 +7898,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Overcoming Shyness with the Opposite Sex",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -7956,7 +8011,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "7 Tips to Be Your Own Boss",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -8069,7 +8124,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Ways To Achieve Better Work-Life Balance",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -8182,7 +8237,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "5 Major Problems And How To Deal With Them",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -8295,7 +8350,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "What does your Handshake tell about you?",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -8397,6 +8452,232 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Have you ever got a feedback after a firm handshake? Confused, if any of you recently got a feedback after the best handshake you can provide that you seem to be confused, then what will be your reaction? <br><br>Handshakes are the mirror to your personality. A handshake defines a person far before than you spend time with them in order to understand them. Here are 7 handshake styles which define a person’s personality perfectly:\n<div>&nbsp;</div><div>\n</div><div>1. The Limp Noodle/ Feminine handshake:</div><br><div> \n</div><div>\n</div><div>If your handshake resembles more like a handshake with a female, you may be an uncovering a feeble inward being. </div><br><div>Truth be told, numerous businesses and business partners will consider this to be an indication that you need certainty and capacity in what you do. </div><br><div>It also indicates that you are confused about what you do. In case you're endeavoring to be \"delicate\" with a female partner, reconsider. Female experts will acknowledge and regard you for regarding them similarly as you would a male partner. \n</div><div>&nbsp;\n</div><div>\n</div><div>2. The Bone Crusher:</div><br><div>\n</div><div>\n</div><div>On the inverse end of the range, don't go in for the handshake with an excessive amount of catalyst your sleeve. Individuals will right away ponder what you're attempting to overcompensate for and likely reject you instantly. </div><br><div>This style of handshake showcases that you are over-confident about your capabilities and can be a negative influencer for others.</div><br><div> \n</div><div>\n</div><div>\n</div><div>3. The Fancy Fool/Casual handshake:</div><br><div> \n</div><div>\n</div><div>While it's turned into a pattern to make the handshake \"hip\" by getting inventive and attempting new things (like the clench hand knock), this hints at youthfulness and an entire absence of mindfulness. </div><br><div>Spare this one for your fraternity siblings and family as it were. These people are amongst the one who takes life very casually, hence it is always fun to be around with such people.</div><br><div> \n</div><div>\n</div><div>\n</div><div>4. The Lingerer:</div><br><div>\n</div><div>\n</div><div>You've connected with a decent, firm grasp, however, neglected to give up. By waiting and hanging on too long, you're telling the other party that you're edgy. </div><br><div>Live by the \"two-second manage\" and let go before it's past the point of no return. As the name suggests Lingerer are the one who will clung to you until their motive is fulfilled. These people are better avoided as they don’t surrender even if they are wrong.\n</div><div>&nbsp;\n</div><div>\n</div><div>5. The Rusher:</div><br><div> \n</div><div>\n</div><div>These people are amongst, for whom life events are nothing less than a formality. That is extremely equivalent to an unexpectedly short handshake. It is impolite, as well as will summon the feeling that you couldn't care less and don't have time for this individual.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>6. The Look Away:</div><br><div> \n</div><div>\n</div><div>A great handshake doesn't stop with the hand, reach and grinning. On the off chance that you are somebody who needs around there, you might be uncovering a feeling of uncertainty, bashfulness, and suspiciousness to future companions or managers. </div><br><div>These people express what they are looking forward from you in the short span of time when you are doing a handshake, basically they can be called as an opportunist.</div><br><div> \n</div><div>\n</div><div>\n</div><div>7. The Perfect Handshake:</div><br><div> \n</div><div>\n</div><div>Finally, the correct approach to shake hand in a decent style with firm pressure. Keep in mind to:</div><br><div> \n</div><div>\n</div><div>•    Keep great stance \n</div><div>•    Establish eye connection \n</div><div>•    Work on your posture \n</div><div>•    Give a decent firm shake \n</div><div>•    Follow the two second run the show \n</div><div>•    Smile\n</div><div>•    Greet the other individual and greet them with their name.</div><br><div>\n</div><div>\n</div><div>Handshakes in professional life is as important as, water is required to live, Hence a handshake should never be a lousy one if you are heading a corporate. </div><br><div>Your handshake reflects your personality, to an extent that the person on the other side can manipulate it, provided he is good in reading handshakes. Worried? </div><br><div>Don’t be just improve your handshake and offer your hand with confidence, positivity, and a let go attitude. </div><br><div>Because when you are prepared for the worst, you are always served with the best. Experts hardly take a second to create the first impression of yours with a handshake; hence do take care of it as much as you do for your attire.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-8a",
           "_cid": "qCwQoSv2OI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page62.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "A Feedback - Bane or Boon?",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>A Feedback - Bane or Boon?</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-8d",
+          "_cid": "qCOTzkWY5G",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171204-123426-1041x566.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-8e",
+          "_cid": "qCOTzOBrSU",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>A Feedback is a kind of two-way communication and can happen between people who share similar interests. <br><br>Feedback can be very professional and then also be very general in nature too, shared among people in day to day life be it a positive one or a negative one. <br><br>Here is a list of benefits to take or give feedbacks and in all cases, a feedback is a boon!\n<div>&nbsp;\n</div><div>\n</div><div>1. Feedback Acts as a Support System:</div><br><div>\n</div><div>\n</div><div>Synonymous to being a support system, feedback often acts as a link where the person who shares the feedback feels a connection with the other person on which he wishes to share his thoughts and suggestions. </div><br><div>An acceptance to the feedback and how it helped in bringing a positive change in him, keeps them connected forever. An anticipation of getting a reply or no, mostly kills interest and when this gap is filled in with an acceptance, it often results in great relations for a lifetime. \n</div><div>&nbsp;\n</div><div>\n</div><div>2. Feedbacks Helps in improving Quality and Performance:</div><br><div> \n</div><div>\n</div><div>Be it an expectation in making a slight change in a plan or something the other person expects a feedback on, can help in improving oneself. </div><br><div>In terms of performance too, a feedback when taken with all sportsman spirit can bring a lot of change in performance making it even better than before.</div><br><div> \n</div><div>\n</div><div>\n</div><div>3. Feedbacks Motivate Mutually:</div><br><div> \n</div><div>\n</div><div>&nbsp;If you wish to share a feedback with a friend or someone you feel connected with, and it just helps him in a way or two; </div><br><div>he will keep you in his mind. Who knows the next time when you are looking out for genuine feedbacks he might just pop out and give his most honest opinions. Things that benefit mutually results in something really useful. \n</div><div>&nbsp;\n</div><div>\n</div><div>4. A Good Feedback acts as an Appreciation:</div><br><div>\n</div><div>\n</div><div>And Appreciations are always exciting right? To boost enthusiasm a good feedback coming from the most trust worthy person is always a confidence booster. </div><br><div>Then, even if the feedback is negative, you take it as something to work upon and excel. Family and friends are the best resources whom you can trust and fall back on.</div><br><div> \n</div><div>\n</div><div>Be Ready for the extremely bad and unmotivating reviews too. Feedbacks are not always productive in nature and can really take you on the toll. </div><br><div>It is the patience that works wonders during the best and the worse times. Taking a negative testimonial into a constructive message can in a way boost confidence and then lead to something more beautiful than expected.</div><br><div>\n</div><div>\n</div><div>Now that we understand the importance of feedbacks, be it good or bad or even motivating with a suggestion, the benefits of it cannot be ignored. </div><br><div>One can easily comprehend how important feedbacks can be and how it can lead to a strong foundation of an amazing product or service.</div><br><div> \n</div><div>\n</div><div>Why not send in your valuable feedbacks and suggestions to us through feedback section in App or rate and review the app on Google Play Store. We wish to understand what are you expecting out of us. Happy Expressing!\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-8f",
+          "_cid": "qCOTA2qwNt",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page63.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "A Few Tips to Avoid Hesitation or Uneasiness",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>A Few Tips to Avoid Hesitation or Uneasiness</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-8g",
+          "_cid": "qCOU5a6t0k",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/img-20171204-123601-1051x579.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-8h",
+          "_cid": "qCOU5kSZdL",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>“It is even better to act quickly and err than to hesitate until the time of action is past”- Carl von Clausewitz”<br><br>  \n<div>\n</div><div>The fear of facing a lot of consequences can lead to hesitation and uneasiness. When you are expecting something, nervousness and anxiety can occur due to over analysing of the situations. </div><br><div>This way, it can make you go into depression, get angry, develop an eating disorder and whatnot. Over thinking a situation is bad for the mind and health alike.</div><br><div>\n</div><div>\n</div><div>Here are a few pointers to keep hesitation and uneasiness at bay</div><br><div>\n</div><div>\n</div><div>1. Relax <b>:</b></div><br><div>\n</div><div>\n</div><div>It may sound clichéd, but relaxation has its own value. You can keep your mind extremely busy so that the current uncertainty of events does not bother you. </div><br><div>Having a hobby, reading a book, taking brisk evening walks, exercising, or watching TV can help you relax in a positive way. </div><br><div>Being nervous about something will not lead to anything positive, so it will be better if you make use of the free time that you have until you get busy.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>2. Ask yourself a few questions <b>:</b></div><div>\n</div><div><br></div><div>One of them is, ‘What is the worst that can happen?’ By analysing the consequences of the situation, it can help you relax and quit being nervous altogether. </div><br><div>You can even ask yourself, ‘why am I over thinking this?’ Once you ask such a question, you will realise that it will lead to nothing but sadness and depression. So, quit being hesitant and challenge you own mind for the better.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>3. Create a schedule and stick to it <b>:</b></div><br><div>\n</div><div>\n</div><div>Hesitation and uneasiness occurs due to not making any actual contributions when there was time. Hence, being nervous at the last moment will only make you erratic and dysfunctional. </div><br><div>By sticking to a schedule, you can avoid the last minute jitters and overcome uneasiness.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>4. Is it fear or discomfort? <b>:</b></div><br><div>\n</div><div>\n</div><div>When you ask yourself whether it is fear of the consequences or just that you are uncomfortable about the situation that is happening will help you analyse your behaviour pattern. </div><br><div>Do you get nervous very easily? Or is this something you face rarely? Hence, this will make your mind clearer about the ideas in your head. This way, you will be able to build your thoughts rationally and avoid becoming anxious or stressed over the issue.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>5. Remember, it can either be success or a learning (not failure) <b>:</b></div><br><div>\n</div><div>\n</div><div>Humans are bound to fear from failures, but in real life scenarios, a term called failure does not exist. </div><br><div>It is either success or learning, nothing besides that. So, if the term failure is out of your dictionary, the feeling of fear will not come into your mind. Start a project with a clear prospect of learning, then 99 out of 100 chances you will experience a success as the end result. Remember a wise man said, “I have not failed 100 times, I discovered 100 ways which cannot take me to the goal.” </div><br><div>The motive of this statement is clear that in case you are not able to achieve success, at the least you will know that there are a few alterations needed in the way you followed to fulfil a particular goal.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>6. Create a back-up plan <b>:</b></div><br><div>\n</div><div>\n</div><div>Remember, you will never hesitate if you have a backup plan in place. </div><br><div>An example for this can be taken from our school period. When we are used to attending the school parents’ meeting, then most of us are hesitant to meet the subject teacher which we never studied, though we knew our parents must have a backup plan for us so that we can excel in that subject. </div><br><div>That is why we took them to the subject teacher to discover our mistake and help us with a solution. In a similar way, there should always be a Plan B ready, whenever you sense  failure can be an outcome, so that in case you fail, you can go ahead with the Plan B straight away.\n</div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>7. Have a Plan to implement<b> :</b></div><br><div>\n</div><div>\n</div><div>Goals are never achieved overnight, they are always achieved with a particular plan. </div><br><div>An unplanned lead has more of a chance of failure, then a well-planned and organized way of doing something. </div><br><div>The biggest advantage of planning is that it gives you an idea of the time, money and other aspects related to the goal, hence the uneasiness is eradicated completely.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-8i",
+          "_cid": "qCOU5yNf2r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
